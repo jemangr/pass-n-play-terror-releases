@@ -1,33 +1,89 @@
 <div align="center">
 
-# 👻 PASS & PLAY TERROR (v1.5.0)
-### *Ασύμμετρο Παιχνίδι Τρόμου & Κρυφών Ρόλων Παρέας για Android (1–8 Παίκτες • Portrait 9:16)*
+# BLACKWOOD — ΦΑΚΕΛΟΣ #09 (v2.0.0)
+### *Σύστημα Ανάκρισης, Τακτικής Επιβίωσης & Μηχανικών Δοκιμασιών Τρόμου για Android*
+**1–8 Παίκτες • Ελληνική Γλώσσα • Portrait 9:16 • Κρυπτογράφηση AES-256-GCM**
 
-[![Κατέβασε το APK](https://img.shields.io/badge/📲_DOWNLOAD_NOW-pass--n--play--terror.apk-dc2626?style=for-the-badge&logo=android&logoColor=white)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)
-[![Τελευταία Έκδοση](https://img.shields.io/github/v/release/jemangr/pass-n-play-terror-releases?style=for-the-badge&label=%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7&color=f59e0b)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest)
-[![Support Email](https://img.shields.io/badge/Support-support%40jemangr.app-1e293b?style=for-the-badge)](mailto:support@jemangr.app)
+[![DOWNLOAD APK](https://img.shields.io/badge/DOWNLOAD_APK-pass--n--play--terror.apk-8a1117?style=for-the-badge&logo=android&logoColor=white)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)
+[![LATEST RELEASE](https://img.shields.io/github/v/release/jemangr/pass-n-play-terror-releases?style=for-the-badge&label=RELEASE&color=a88958)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest)
+[![SUPPORT](https://img.shields.io/badge/SUPPORT-support%40jemangr.app-121218?style=for-the-badge)](mailto:support@jemangr.app)
 
 <br/>
 
-> 📲 **[👉 ΚΑΤΕΒΑΣΤΕ ΤΟ ANDROID APK ΑΠΕΥΘΕΙΑΣ ΕΔΩ (Πάντα η τελευταία έκδοση) / DOWNLOAD NOW 👈](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)**
+> 🔒 **[ΚΑΤΕΒΑΣΤΕ ΤΟ ΕΠΙΣΗΜΟ APK ΑΠΕΥΘΕΙΑΣ ΕΔΩ (v2.0.0 Build 9)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)**
 >
-> 🔗 **Short Link:** `https://jemangr.app/terror/` → `https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk`
+> 🔗 **Μόνιμος Σύνδεσμος Λήψης:** `https://jemangr.app/terror/` → `https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk`
 
 </div>
 
 ---
 
-## 🔥 Νέο στην Έκδοση v1.5.0 (10 Παιχνίδια • Ομαδικοί Ρόλοι Χέρι-με-Χέρι • Raw Horror Audio)
+## ΦΩΤΟΓΡΑΦΙΚΗ ΤΕΚΜΗΡΙΩΣΗ ΣΥΣΤΗΜΑΤΟΣ (SCREENSHOTS)
 
-1. **🎭 4 Ομαδικά Παιχνίδια «Χέρι με Χέρι» με Ρόλους (Χωρίς Χρονόμετρο Πάσας!):**
-   - `👹 1. Ο Δαιμονισμένος (Κρυφοί Ρόλοι, Παγίδευση Κάρτας & Εξορκισμός)`
-   - `💣 2. Το Καταραμένο Μουσικό Κουτί (8 Κλειδιά Κουρδίσματος & Ρόλοι Reverse/Διπλό)`
-   - `💉 3. Η Ρουλέτα του Χειρουργού (6 Σύριγγες Νεκροτομείου & Ρόλος Ανατόμου)`
-   - `🗿 4. Το Άγαλμα του Blackwood (5 Σφραγίδες Ακινησίας & Σιωπής)`
-2. **⚡ 6 Δοκιμασίες Επιβίωσης (+ Gauntlet):**
-   - `🔐 Κρύπτη Cryptex`, `⚡ Καλώδια Τάσης`, `🕯️ Πίνακας Ouija`, `📻 Συχνότητα EVP`, `🫀 Απινιδωτής ECG (Νέο)`, `🪞 Καθρέφτης της Καλόγριας (Νέο)`.
-3. **🛠️ Raw Horror Κραυγές, Native Android Μικρόφωνο (`AudioRecord`), Native Android Share Sheet (`MediaStore`), LED Φλας Strobe, Ονόματα Παρέας & Τροχός Ποινών.**
+<div align="center">
+
+| ΚΕΝΤΡΙΚΟ ΜΕΝΟΥ ΔΙΚΟΓΡΑΦΙΑΣ | ΑΠΟΡΡΗΤΟΙ ΦΑΚΕΛΟΙ ΔΟΚΙΜΑΣΙΩΝ |
+| :---: | :---: |
+| <img src="./screenshots/v2_screen_1_title.png" width="360" alt="Blackwood Title Menu" /> | <img src="./screenshots/v2_screen_2_cases.png" width="360" alt="Classified Case Files" /> |
+
+| ΠΕΡΙΣΤΡΟΦΟ ΔΙΕΥΘΥΝΤΗ (6 ΘΑΛΑΜΕΣ) | ΠΑΛΜΟΓΡΑΦΟΣ ΣΥΧΝΟΤΗΤΩΝ EVP |
+| :---: | :---: |
+| <img src="./screenshots/v2_screen_3_revolver.png" width="360" alt="Director Revolver Roulette" /> | <img src="./screenshots/v2_screen_4_oscilloscope.png" width="360" alt="Dual-Wave Oscilloscope" /> |
+
+| ΕΜΦΑΝΙΣΗ ΟΝΤΟΤΗΤΑΣ & ΙΑΤΡΟΔΙΚΑΣΤΙΚΟ ΔΕΛΤΙΟ | ΜΗΤΡΩΟ ΠΑΙΚΤΩΝ & ΣΥΝΔΕΣΗ WI-FI |
+| :---: | :---: |
+| <img src="./screenshots/v2_screen_5_jumpscare.png" width="360" alt="Jumpscare and Forensic Report" /> | <img src="./screenshots/v2_screen_6_roster.png" width="360" alt="Patient Roster Screen" /> |
+
+</div>
 
 ---
 
-**Copyright © 2026 jemangr. All Rights Reserved.**
+## ΑΝΑΒΑΘΜΙΣΕΙΣ ΕΚΔΟΣΗΣ 2.0.0 (BUILD 9)
+
+Η έκδοση 2.0.0 αποτελεί πλήρη ανασχεδιασμό του συστήματος, μετατρέποντάς το από απλή εφαρμογή σε ένα σκοτεινό, ρεαλιστικό ψυχολογικό θρίλερ με κλινική και βιομηχανική αισθητική:
+
+### 1. Αρχιτεκτονική Πλοήγησης & Καθαρό Περιβάλλον Χρήστη
+- **Κατάργηση περιττών στοιχείων και emoji:** Πλήρης εξάλειψη παιδικών εικονιδίων και χρωματικών αντιθέσεων.
+- **5 Αυτόνομες Οθόνες:**
+  - `ΕΝΟΤΗΤΑ I: ΕΠΙΛΟΓΗ ΦΑΚΕΛΟΥ & ΕΝΑΡΞΗ` (Αρχειοθήκη 6 υποθέσεων σε 2 καρτέλες).
+  - `ΕΝΟΤΗΤΑ II: ΜΗΤΡΩΟ ΠΑΙΚΤΩΝ & ΟΝΟΜΑΤΑ` (Καταχώρηση 1 έως 8 παικτών, τρόπος συνεδρίας, κωδικός QR τοπικού δικτύου).
+  - `ΕΝΟΤΗΤΑ III: ΠΡΩΤΟΚΟΛΛΟ ΕΠΙΒΙΩΣΗΣ` (Αναλυτικοί κανόνες ανάκρισης και ποινών).
+  - `ΕΝΟΤΗΤΑ IV: ΠΑΡΑΜΕΤΡΟΙ ΣΥΣΤΗΜΑΤΟΣ` (Ρυθμίσεις ακουστικής μηχανής, αισθητήρων και έλεγχος ενημερώσεων v2.0.0).
+  - `ΕΝΟΤΗΤΑ V: ΘΑΛΑΜΟΣ ΔΟΚΙΜΑΣΙΑΣ` (Τηλεμετρία ΗΚΓ, ακουστική στάθμη dB, γυροσκόπιο και κάμερα αντίδρασης PiP).
+
+### 2. Οι 6 Απόρρητοι Φάκελοι Δοκιμασιών
+- **Ομαδικοί Φάκελοι (Χέρι-με-Χέρι • Χωρίς Αντίστροφο Χρονόμετρο κατά την Πάσα):**
+  - **ΦΑΚΕΛΟΣ I: ΑΝΑΚΡΙΣΗ ΘΑΛΑΜΟΥ #09 (Ο ΞΕΝΙΣΤΗΣ):** Κοινωνική ανάκριση και ιατροδικαστική εξέταση. Οι Ιατροδικαστές γνωρίζουν το εύρημα νεκροψίας, ενώ ο Ξενιστής μπλοφάρει και έχει τη δυνατότητα να παγιδεύσει κρυφά τον επόμενο φάκελο.
+  - **ΦΑΚΕΛΟΣ II: ΤΟ ΠΕΡΙΣΤΡΟΦΟ ΤΟΥ ΔΙΕΥΘΥΝΤΗ (6 ΘΑΛΑΜΕΣ):** Τακτική ρωσική ρουλέτα τύπου *Buckshot Roulette*. Πραγματικές και άσφαιρες σφαίρες, Ακτινογραφία Θαλάμης, Εξαγωγή Κάλυκα, εκπυρσοκρότηση στον εαυτό σου για πόντους ή πάσα με μπλόφα.
+  - **ΦΑΚΕΛΟΣ III: ΝΕΚΡΙΚΗ ΑΚΙΝΗΣΙΑ (ΣΕΙΣΜΟΓΡΑΦΟΣ & ΗΧΟΣ):** Ασφαλής πάσα της συσκευής χωρίς ενεργούς αισθητήρες. Οι αισθητήρες ενεργοποιούνται αποκλειστικά όταν ο παίκτης κρατάει πατημένο τον Βιομετρικό Στόχο για 3.0 δευτερόλεπτα.
+- **Μηχανικοί & Λογικοί Γρίφοι (Και Τριπλό Πρωτόκολλο Gauntlet):**
+  - **ΦΑΚΕΛΟΣ IV: ΚΡΥΠΤΟΓΡΑΦΟΣ ΑΠΟΜΟΝΩΣΗΣ:** Μηχανικός περιστρεφόμενος δίσκος με ταχύτητα συνδεδεμένη με τους παλμούς σου (BPM).
+  - **ΦΑΚΕΛΟΣ V: ΠΙΝΑΚΑΣ ΥΨΗΛΗΣ ΤΑΣΗΣ ΝΕΚΡΟΤΟΜΕΙΟΥ:** Λογικός γρίφος κυκλώματος (400V, GND, 240V CAP, 110V AUX, 600V ISO, 12V MED) με τρεις διαγνωστικούς κανόνες αποσύνδεσης φορτίου.
+  - **ΦΑΚΕΛΟΣ VI: ΠΑΛΜΟΓΡΑΦΟΣ ΣΥΧΝΟΤΗΤΩΝ EVP:** Διπλός παλμογράφος σε πραγματικό Canvas για συντονισμό Συχνότητας (Hz) και Πλάτους (Amplitude) με το κυματικό ίχνος της οντότητας.
+
+### 3. Ρεαλιστική Ακουστική Μηχανή Τρόμου (Acoustic Horror Engine)
+- Κατάργηση συνθετικών απλών κυματομορφών.
+- **Μοντελοποίηση Ανθρώπινων Φωνητικών Χορδών:** Παραγωγή κραυγής μέσω Glottal Impulse Train + στροβιλώδους θορύβου εισπνοής που διέρχεται από 3 παράλληλα φίλτρα Formant ανθρώπινου λάρυγγα (`F1=820Hz`, `F2=1980Hz`, `F3=3150Hz`).
+- **Ασύμμετρη Παραμόρφωση Λυχνίας (Tube Saturation):** Πλήρης ενέργεια κορεσμού σήματος.
+- **Στερεοφωνικό Reverb Σκοτεινού Διαδρόμου (`ConvolverNode`):** Αντανακλάσεις τσιμεντένιου θαλάμου ψυχιατρείου.
+- **Υποηχητικό Χτύπημα Στήθους (32Hz Sub-Bass Slam)** κατά την εκδήλωση της επίθεσης.
+- **Συνεχής Βιομηχανικός Βόμβος (46Hz & 68.5Hz Transformer Drone)** στον θάλαμο δοκιμασιών.
+
+### 4. Εγγενής Ενσωμάτωση Android
+- **Αυτόματη απαίτηση δικαιωμάτων:** Android Runtime Permissions για μικρόφωνο και κάμερα κατά την εκκίνηση.
+- **Πραγματική μέτρηση στάθμης ήχου:** `AudioRecord` στα 16kHz PCM για ακριβή ανάγνωση dB φωνής.
+- **Εγγενές Android Share Sheet:** Αποθήκευση του Ιατροδικαστικού Δελτίου στο `MediaStore` και αποστολή μέσω `Intent.ACTION_SEND`.
+- **Φλας LED Κάμερας:** Παλμικός φωτισμός strobe μέσω `CameraManager.setTorchMode`.
+- **Αυτόματες ενημερώσεις APK:** Έλεγχος νέων εκδόσεων και άμεση λήψη από το μενού ρυθμίσεων.
+
+---
+
+## ΤΕΧΝΙΚΗ ΤΕΚΜΗΡΙΩΣΗ (ΙΔΙΩΤΙΚΟ ΑΠΟΘΕΤΗΡΙΟ)
+
+- [`DECISIONS.md`](./DECISIONS.md) — Αποφάσεις αρχιτεκτονικής λογισμικού (`ADR-001` έως `ADR-016`).
+- [`Pass and Play Terror.docx`](./Pass%20and%20Play%20Terror.docx) — Αρχικό έγγραφο σχεδιασμού.
+- [`walkthrough.md`](./walkthrough.md) — Οδηγός δοκιμών και επαλήθευσης.
+
+---
+
+**Copyright © 2026 jemangr. Όλα τα δικαιώματα διατηρούνται.**
