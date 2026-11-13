@@ -1,18 +1,19 @@
 {
   "appName": "Pass & Play Terror (BLACKWOOD: CASE #09)",
   "packageId": "app.jemangr.passnplayterror",
-  "version": "5.4.0",
-  "versionCode": 23,
-  "releasedAt": "2026-11-13T18:56:00.000Z",
+  "version": "5.5.0",
+  "versionCode": 24,
+  "releasedAt": "2026-11-13T19:30:00.000Z",
   "mandatory": false,
   "apkFileName": "pass-n-play-terror.apk",
   "apkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk",
-  "fallbackApkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/tag/v5.4.0",
+  "fallbackApkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/tag/v5.5.0",
   "supportEmail": "support@jemangr.app",
-  "playersSupported": "1-8 Players (68 Cases • Party Roulette • 1v1 Same-Screen Filter • Night MVP Trophy Card • Creepy 1974 TTS)",
+  "playersSupported": "1-8 Players (68 Cases • v5.5.0 UI/Graphics/Audio & Gameplay Overhaul)",
   "releaseNotes": [
-    "v5.4.0 (Build 23) — Wave 3: 68 Cases (I–LXVIII), 14 New Party/Multi-Touch/Logic Games + Growth Upgrades",
-    "14 New Cases (LV–LXVIII): Twin Evidence Dobble, 4-Corner Shock Hands, 1v1 Split Laser Duel, Anomaly Triage SET, Liar's Dice Cup, Last Serum UNO, Ward Smuggler, Werewords 20Q + Traitor, 5x5 Minesweeper Vault, Concept Icons, Foley Mic Charades, Asylum Confession, Echo Rhythm Telephone, Panic Choir Mic",
-    "4 Growth Upgrades: Party Roulette Auto-Picker, ⚡ 1v1 / Same-Screen Filter Chip, Night MVP Trophy Board + 4:5 Card Export & Creepy 1974 Director Voice Tone (Native Android TTS pitch 0.68 / rate 0.80)"
+    "v5.5.0 (Build 24) — Gamer + Graphic & Sound Designer Overhaul across 68 Cases",
+    "UI & Graphic Overhaul: Expanded Party Viewport (zero dead vertical gap), Clean Topbar (CASES I–LXVIII), Search + ★ Favorites + 6+ Party Filters, Custom Vector Glyphs (Dobble Necropsy), Authentic SVG Solid/Striped/Outline SET Cards, Retro CRT Corridor Shader (Red Light 1974), 3D Cracked Bones (Surgical Jenga), Analog VU Gauge (Choir Panic) & Playable Card Glow (UNO)",
+    "Pro Sound & Haptic Studio: Persistent Spatial Reverb Bus, BPM-Reactive Breathing Horror Drone, Voice Ducking during TTS, Accelerating Final-5s Ticks, & 6 Bespoke WebAudio SFX (Dice Rattle, Card Snap, Slap Impact, Minesweeper Flood, Wood Creak, Vault Unlock Fanfare)",
+    "Deep Gameplay Reworks: True Rhythm Interval Judging (Echo Rhythm), Direct-Tap + 1v1 Table Rotation (Dobble), BFS Flood-Fill (Minesweeper), Multi-Cup Dice Bluff Resolution (Liar's Dice), SET Hint Spark, Micro Screen-Shake & Floating Score Popups"
   ]
 }

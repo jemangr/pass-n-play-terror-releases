@@ -1,8 +1,8 @@
 <div align="center">
 
-# PASS & PLAY TERROR — BLACKWOOD #09 (v5.1.0)
-### *Noir Card Minimal Clean UI • 4:5 Share Card & Video Clip • 26 Cases (I–XXVI) • Zero-Leak EN/EL • In-App Updater & LAN Saboteur*
-**1–8 Παίκτες • Clean Option 1 Home & 4-Tab Dock • 4:5 Share Card + Βίντεο Αντίδρασης • 26 Δωρεάν Φάκελοι • 100% EN/EL • In-App Update**
+# PASS & PLAY TERROR — BLACKWOOD #09 (v5.4.0)
+### *68 Cases (I–LXVIII) • Party Roulette • 1v1 Same-Screen • Night MVP Trophy • Creepy 1974 TTS (EL/EN)*
+**1–8 Παίκτες • 68 Φάκελοι (33 Ομαδικά • 21 Γρίφοι • 14 Αισθητήρες) • 4:5 MVP & Story Export • 100% EN/EL**
 
 [![DOWNLOAD APK](https://img.shields.io/badge/DOWNLOAD_APK-pass--n--play--terror.apk-8a1117?style=for-the-badge&logo=android&logoColor=white)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)
 [![LATEST RELEASE](https://img.shields.io/github/v/release/jemangr/pass-n-play-terror-releases?style=for-the-badge&label=RELEASE&color=a88958)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest)
@@ -10,7 +10,7 @@
 
 <br/>
 
-> 🔒 **[ΚΑΤΕΒΑΣΤΕ ΤΟ ΕΠΙΣΗΜΟ APK ΑΠΕΥΘΕΙΑΣ ΕΔΩ (v5.1.0 Build 19)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)**
+> 🔒 **[ΚΑΤΕΒΑΣΤΕ ΤΟ ΕΠΙΣΗΜΟ APK ΑΠΕΥΘΕΙΑΣ ΕΔΩ (v5.4.0 Build 23)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)**
 >
 > 🔗 **Μόνιμος Σύνδεσμος Λήψης:** `https://jemangr.app/terror/` → `https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk`
 
@@ -18,9 +18,29 @@
 
 ---
 
-## ΦΩΤΟΓΡΑΦΙΚΗ ΤΕΚΜΗΡΙΩΣΗ ΣΥΣΤΗΜΑΤΟΣ (SCREENSHOTS v5.1.0)
+## ΦΩΤΟΓΡΑΦΙΚΗ ΤΕΚΜΗΡΙΩΣΗ ΣΥΣΤΗΜΑΤΟΣ (SCREENSHOTS v5.3.0)
 
 <div align="center">
+
+| BAR/NO-MIC FILTER & CUSTOM PARTY WORDS | CASE XLI — THE CHAMELEON 4×4 |
+| :---: | :---: |
+| <img src="./screenshots/v5_3_cases_filter.png" width="360" alt="Bar Filter & Custom Words v5.3" /> | <img src="./screenshots/v5_3_ward_chameleon.png" width="360" alt="Ward Chameleon 4x4 v5.3" /> |
+
+| CASE XLIII — SKETCH CHAIN (+4:5 STORY STRIP) | CASE XLVII — RED LIGHT GREEN LIGHT 1974 |
+| :---: | :---: |
+| <img src="./screenshots/v5_3_sketch_chain.png" width="360" alt="Sketch Chain v5.3" /> | <img src="./screenshots/v5_3_red_green_1974.png" width="360" alt="Red Light Green Light 1974 v5.3" /> |
+
+| CASE XLIX — SURGICAL JENGA PHYSICS | CASE LIV — DIRECTOR'S CUP (4th KING VIAL) |
+| :---: | :---: |
+| <img src="./screenshots/v5_3_surgical_jenga.png" width="360" alt="Surgical Jenga Physics v5.3" /> | <img src="./screenshots/v5_3_directors_cup.png" width="360" alt="Directors Cup v5.3" /> |
+
+| PRE-GAME BRIEFING MODAL (PAUSE-BEFORE-START) | CASE XXXI — PSYCHOMETER (WAVELENGTH) |
+| :---: | :---: |
+| <img src="./screenshots/v5_2_pregame_briefing.png" width="360" alt="Pre-Game Briefing Card v5.2" /> | <img src="./screenshots/v5_2_wavelength_psy.png" width="360" alt="Wavelength Psychometer v5.2" /> |
+
+| CASE XXXII — MADNESS SKETCH (FAKE ARTIST) | CASE XXXV — BROKEN 1974 MANUAL (LAN SYNC) |
+| :---: | :---: |
+| <img src="./screenshots/v5_2_fake_artist.png" width="360" alt="Fake Artist Canvas v5.2" /> | <img src="./screenshots/v5_2_manual_1974.png" width="360" alt="Broken 1974 Manual v5.2" /> |
 
 | CLEAN UI OPTION 1 — NOIR CARD MINIMAL (EL) | BILINGUAL CLEAN HOME & DOCK (EN) |
 | :---: | :---: |
