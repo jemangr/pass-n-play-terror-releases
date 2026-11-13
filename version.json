@@ -1,19 +1,18 @@
 {
   "appName": "Pass & Play Terror (BLACKWOOD: CASE #09)",
   "packageId": "app.jemangr.passnplayterror",
-  "version": "5.3.1",
-  "versionCode": 22,
-  "releasedAt": "2026-11-13T17:03:00.000Z",
+  "version": "5.4.0",
+  "versionCode": 23,
+  "releasedAt": "2026-11-13T18:56:00.000Z",
   "mandatory": false,
   "apkFileName": "pass-n-play-terror.apk",
   "apkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk",
-  "fallbackApkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/tag/v5.3.1",
+  "fallbackApkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/tag/v5.4.0",
   "supportEmail": "support@jemangr.app",
-  "playersSupported": "1-8 Players (54 Cases • Native Android TTS Voice Briefings EL/EN • Bar/No-Mic Filter • Custom Party Jokes • 4:5 Story Strip)",
+  "playersSupported": "1-8 Players (68 Cases • Party Roulette • 1v1 Same-Screen Filter • Night MVP Trophy Card • Creepy 1974 TTS)",
   "releaseNotes": [
-    "v5.3.1 (Build 22) — Native Android TextToSpeech (EL/EN) + Automatic & On-Demand Voice Briefings",
-    "Native Android Speech Engine (MainActivity TTS bridge): Guaranteed voice playback inside Android WebView across all devices for Greek (el-GR) and English (en-US)",
-    "Pre-Game Briefing Voiceover (#btn-pregame-speak): Reads aloud every case's Objective, Controls & Trap across all 54 cases (plus toggleable auto-voice setting in Settings)",
-    "Live Voice Prompts in Gameplay: Zero-Mod Night Phase narration + Torch flash in Secret Ward (XXXIX), 'Green Light / Red Light Freeze!' announcements (XLVII), and '3-2-1 Fire!' countdown in Standoff (L)"
+    "v5.4.0 (Build 23) — Wave 3: 68 Cases (I–LXVIII), 14 New Party/Multi-Touch/Logic Games + Growth Upgrades",
+    "14 New Cases (LV–LXVIII): Twin Evidence Dobble, 4-Corner Shock Hands, 1v1 Split Laser Duel, Anomaly Triage SET, Liar's Dice Cup, Last Serum UNO, Ward Smuggler, Werewords 20Q + Traitor, 5x5 Minesweeper Vault, Concept Icons, Foley Mic Charades, Asylum Confession, Echo Rhythm Telephone, Panic Choir Mic",
+    "4 Growth Upgrades: Party Roulette Auto-Picker, ⚡ 1v1 / Same-Screen Filter Chip, Night MVP Trophy Board + 4:5 Card Export & Creepy 1974 Director Voice Tone (Native Android TTS pitch 0.68 / rate 0.80)"
   ]
 }
