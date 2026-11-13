@@ -1,8 +1,8 @@
 <div align="center">
 
-# BLACKWOOD — ΦΑΚΕΛΟΣ #09 (v5.0.1)
-### *Option Δ Noir Radar UI • 26 Horror Cases (I–XXVI) • Zero-Leak EN/EL • In-App Updater & Share • LAN Saboteur*
-**1–8 Παίκτες • Option Δ Radar & Bottom Dock • 26 Δωρεάν Φάκελοι • 100% Δίγλωσσο EN/EL • In-App APK Update • Κοινοποίηση App • AES-256-GCM**
+# PASS & PLAY TERROR — BLACKWOOD #09 (v5.1.0)
+### *Noir Card Minimal Clean UI • 4:5 Share Card & Video Clip • 26 Cases (I–XXVI) • Zero-Leak EN/EL • In-App Updater & LAN Saboteur*
+**1–8 Παίκτες • Clean Option 1 Home & 4-Tab Dock • 4:5 Share Card + Βίντεο Αντίδρασης • 26 Δωρεάν Φάκελοι • 100% EN/EL • In-App Update**
 
 [![DOWNLOAD APK](https://img.shields.io/badge/DOWNLOAD_APK-pass--n--play--terror.apk-8a1117?style=for-the-badge&logo=android&logoColor=white)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)
 [![LATEST RELEASE](https://img.shields.io/github/v/release/jemangr/pass-n-play-terror-releases?style=for-the-badge&label=RELEASE&color=a88958)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest)
@@ -10,7 +10,7 @@
 
 <br/>
 
-> 🔒 **[ΚΑΤΕΒΑΣΤΕ ΤΟ ΕΠΙΣΗΜΟ APK ΑΠΕΥΘΕΙΑΣ ΕΔΩ (v5.0.1 Build 18)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)**
+> 🔒 **[ΚΑΤΕΒΑΣΤΕ ΤΟ ΕΠΙΣΗΜΟ APK ΑΠΕΥΘΕΙΑΣ ΕΔΩ (v5.1.0 Build 19)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)**
 >
 > 🔗 **Μόνιμος Σύνδεσμος Λήψης:** `https://jemangr.app/terror/` → `https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk`
 
@@ -18,13 +18,17 @@
 
 ---
 
-## ΦΩΤΟΓΡΑΦΙΚΗ ΤΕΚΜΗΡΙΩΣΗ ΣΥΣΤΗΜΑΤΟΣ (SCREENSHOTS v5.0.0)
+## ΦΩΤΟΓΡΑΦΙΚΗ ΤΕΚΜΗΡΙΩΣΗ ΣΥΣΤΗΜΑΤΟΣ (SCREENSHOTS v5.1.0)
 
 <div align="center">
 
-| OPTION Δ — MINIMAL NOIR RADAR (EL) | BILINGUAL NOIR RADAR & DOCK (EN) |
+| CLEAN UI OPTION 1 — NOIR CARD MINIMAL (EL) | BILINGUAL CLEAN HOME & DOCK (EN) |
 | :---: | :---: |
-| <img src="./screenshots/v5_screen_1_title_el.png" width="360" alt="Option Delta Title Menu EL v5" /> | <img src="./screenshots/v5_screen_2_title_en.png" width="360" alt="Option Delta Title Menu EN v5" /> |
+| <img src="./screenshots/v5_screen_1_title_el.png" width="360" alt="Clean UI Option 1 EL v5.1" /> | <img src="./screenshots/v5_screen_2_title_en.png" width="360" alt="Clean UI Option 1 EN v5.1" /> |
+
+| IN-APP 4:5 SHARE PREVIEW & VIDEO MODAL | RENDERED 4:5 VIRAL SHARE CARD (`720×900`) |
+| :---: | :---: |
+| <img src="./screenshots/v5_1_share_preview_modal.png" width="360" alt="Share Preview Modal v5.1" /> | <img src="./screenshots/v5_1_share_card_4x5.jpg" width="360" alt="Compact 4:5 Share Card v5.1" /> |
 
 | 26 ΦΑΚΕΛΟΙ & ΠΑΚΕΤΑ ΠΟΙΝΩΝ (EN) | ΦΑΚΕΛΟΣ XVII — BLIND ELEVATOR |
 | :---: | :---: |
@@ -39,6 +43,14 @@
 | <img src="./screenshots/v5_screen_8_pressure_tumblers.png" width="360" alt="5-Disc Safecracker v5" /> | <img src="./screenshots/v5_screen_7_daily_2x_summary.png" width="360" alt="Daily 2X Summary v5" /> |
 
 </div>
+
+---
+
+## ΑΝΑΒΑΘΜΙΣΕΙΣ ΕΚΔΟΣΗΣ 5.1.0 (BUILD 19) — CLEAN UI OPTION 1, 4:5 SHARE CARD & VIDEO REACTION FIX
+
+- **Clean UI Επιλογή 1 (`Noir Card Minimal`):** Καθαρή αρχική οθόνη χωρίς θόρυβο: brand header (`PASS & PLAY TERROR // BLACKWOOD ASYLUM #09`), 1 ευρύχωρη Hero Noir κάρτα (`ΜΠΕΣ ΣΤΟΝ ΘΑΛΑΜΟ` + `#btn-quickstart`), 3 καθαρά tiles (`26 Φάκελοι & Δυσκολία`, `Πείραξε Φίλο LAN QR`, `Ημερήσια Βάρδια • STREAK`), διακριτικό footer (`Πείραμα 15" Σοκ` + έκδοση) και ανανεωμένο Bottom Dock (`ΑΡΧΙΚΗ • 26 ΦΑΚΕΛΟΙ • ΠΑΙΚΤΕΣ • ΑΡΧΕΙΟ 1974`).
+- **Συμπαγής 4:5 Κάρτα Κοινοποίησης (`720×900`) & Preview Modal:** Προεπισκόπηση εντός εφαρμογής (`#share-preview-modal` στο `z-index: 105`), εμφανής τίτλος `PASS & PLAY TERROR`, υπόθεση `BLACKWOOD: CASE #09`, badge `168 BPM`, διπλό πλαίσιο Οντότητας + Video/Selfie Cam χωρίς επικάλυψη προσώπου, 3 καθαρές ενδείξεις τηλεμετρίας και QR footer.
+- **Οριστική Επιδιόρθωση «Κοινοποίηση Βίντεο Αντίδρασης» (`shareReactionVideoClip`):** Διατήρηση WebM EBML header chunk + μείξη μικροφώνου στο rolling buffer, αυτόματη δημιουργία κλιπ MP4/WebM μέσω `canvas.captureStream(20)` όταν δεν υπάρχει κάμερα, και σωστή native Android κοινοποίηση μέσω `ApkUpdateProvider` (`/shares/` + `ClipData.newRawUri` + Android `Q+` `MediaStore`).
 
 ---
 

@@ -1,19 +1,19 @@
 {
   "appName": "Pass & Play Terror (BLACKWOOD: CASE #09)",
   "packageId": "app.jemangr.passnplayterror",
-  "version": "5.0.1",
-  "versionCode": 18,
-  "releasedAt": "2026-11-13T13:30:00.000Z",
+  "version": "5.1.0",
+  "versionCode": 19,
+  "releasedAt": "2026-11-13T15:35:00.000Z",
   "mandatory": false,
   "apkFileName": "pass-n-play-terror.apk",
   "apkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk",
-  "fallbackApkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/tag/v5.0.1",
+  "fallbackApkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/tag/v5.1.0",
   "supportEmail": "support@jemangr.app",
-  "playersSupported": "1-8 Players (Option Delta Noir UI • 26 Cases • 100% Zero-Leak EN/EL • In-App Updater & Share • Daily Shift 2X • LAN Saboteur)",
+  "playersSupported": "1-8 Players (Noir Card Minimal Home UI • 26 Cases • 4:5 Viral Share & Reaction Video • 100% Zero-Leak EN/EL • In-App Updater • LAN Saboteur)",
   "releaseNotes": [
-    "v5.0.1 (Build 18) — Zero-Leak 100% EN/EL Translation Audit (Cases I-XXVI + All Modals/Screens), Unified Single-Button In-App APK Updater & App Share",
-    "Unified In-App Update: Replaced separate check/download buttons with a single 'CHECK & UPDATE IN-APP' control featuring live native HTTP download progress bar, ApkUpdateProvider (FileProvider/ContentProvider) & automatic Android PackageInstaller launch",
-    "Share App in Settings: Native Android Share Sheet (Intent.ACTION_SEND) + Web Share/Clipboard fallback via 'SHARE APP WITH FRIENDS'",
-    "Zero-Leak EN Localization: Translated remaining Greek text across Classic Cases I-XVI, Roster, Settings, Saboteur LAN cockpit/alerts/logs, Epilogues, HUD badges, Poison Council vials, Morse Cipher & all modals"
+    "v5.1.0 (Build 19) — Noir Card Minimal Clean Home UI (Option 1), Compact 4:5 Viral Share Card & Fixed Reaction Video Clip Pipeline",
+    "Noir Card Minimal Home UI: Uncluttered home screen featuring brand header, spacious Hero Noir Card ('ENTER THE WARD' + bold CTA), 3 focused quick tiles (26 Cases, Troll a Friend LAN QR, Daily Shift Streak), quiet footer strip (15s Shock Test), and updated 4-tab Bottom Dock",
+    "Compact 4:5 Share Card + In-App Preview Modal: Replaced 540x960 poster with sleek 720x900 (4:5) layout displaying 'PASS & PLAY TERROR', 'BLACKWOOD: CASE #09', split Entity + Selfie/Video frame with zero overlap, 3 telemetry cells, QR footer, and an interactive preview modal",
+    "Fixed Reaction Video Clip Sharing: Works reliably with or without camera opt-in (preserves WebM EBML header chunk & mic mix, falls back to generated animated horror telemetry MP4/WebM reel via canvas.captureStream, and fixes Android Q+ MediaStore + ApkUpdateProvider FileProvider URI sharing)"
   ]
 }
