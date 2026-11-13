@@ -1,20 +1,20 @@
 {
   "appName": "Pass & Play Terror (BLACKWOOD: ΦΑΚΕΛΟΣ #09)",
   "packageId": "app.jemangr.passnplayterror",
-  "version": "2.5.0",
-  "versionCode": 14,
-  "releasedAt": "2026-11-13T10:36:00.000Z",
+  "version": "3.0.0",
+  "versionCode": 15,
+  "releasedAt": "2026-11-13T11:30:00.000Z",
   "mandatory": false,
   "apkFileName": "pass-n-play-terror.apk",
   "apkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk",
-  "fallbackApkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/tag/v2.5.0",
+  "fallbackApkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/tag/v3.0.0",
   "supportEmail": "support@jemangr.app",
-  "playersSupported": "1-8 Players (Pass & Play + Local Wi-Fi + Campaign + Nightmare)",
+  "playersSupported": "1-8 Players (Pass & Play + Local Wi-Fi + 5-Node Wing Map + Table 180° + Nightmare)",
   "releaseNotes": [
-    "v2.5.0 (Build 14) — Deep Flow Overhaul, Bugfixes & Game Design Expansion (Cases I–XVI)",
-    "Διορθώσεις Κρίσιμων Bugs: Σταυρόνημα ακτινογραφίας X-Ray (Q1–Q4) με sweet-spot Dimmer 35-68% & έλεγχο τρόμου, αφαίρεση λάθος timer 45s στον Διπλό Πολύγραφο (XI), ανεξάρτητες μπάρες πίεσης Α/Β & ανίχνευση υπαίτιου, ενεργοποίηση Pass-and-Play παγίδων σε Ρουλέτα/Αγαλματάκια/Νεκροψία, κατάργηση ακούσιας αλλαγής παιχνιδιού κατά την εναλλαγή tabs",
-    "Ροή & Βάθος: Κλινική Δυσκολία (Clinical/Hard/Despair), Γρήγορη Εκκίνηση, Μόνιμη Αποθήκευση Προόδου & Θησαυροφυλάκιο 1974 (Vault Unlock), Συμπαγής Ομαδικός Γύρος & Συσσωρευτική Βαθμολογία, AI Μάρτυρες Solo για Φάκελο I, Κλιμάκωση Εκστρατείας, 0.28s Audio Vacuum & Live Calibration",
-    "Αναβαθμίσεις Gameplay I–XVI: Ρουλέτα (Invert Polarity + Shoot Opponent + 2 Peeks), Κρυπτογράφος 1974 Digits, Παλμογράφος target band check (AM/FM/SW), Νεκροψία 2x Sanitize cap, Τοξικολογία 6 αντιδραστήρια με ακριβή σειρά έγχυσης, Μαγνητοταινία EVP χειροκίνητο scrub & θραύση τάσης στα 15 ips, Σεισμογράφος blind-zone + stereo cues, EMF 50Hz ψευδής εστία, FLIR κινούμενος πυρήνας & θερμό δόλωμα +37.2°C, Απινιδωτής >360J υπερφόρτιση & ταχύτητα συνδεδεμένη με BPM",
-    "Ασύμμετρο Οικονομικό Μοντέλο Σαμποτέρ (Voltage 0-100%, αναπλήρωση 4%/sec), Live badge συνδεδεμένων Σαμποτέρ LAN στο HUD & απόκρυψη διακοπτών demo σαμποτάζ από την οθόνη θύματος"
+    "v3.0.0 (Build 15) — Πλήρης Επανασχεδιασμός UI/UX, Χάρτης Πτέρυγας 5 Κόμβων & Αναβαθμίσεις Gameplay I–XVI",
+    "UI/UX & Πλοήγηση: Διπλή τυπογραφία (--font-sans & --font-mono), ενιαίο Contextual Top Bar, 3 Προεπιλογές Εκκίνησης (Ταχεία 5', Ανάκρισις Πάρτι, Πτέρυγα), Οδηγός Εκκίνησης 3 βημάτων & Κουμπί Βοήθειας (?) με αυτόματη παύση χρόνου & θόλωμα",
+    "Διαδραστικός Χάρτης Πτέρυγας 5 Κόμβων: Διακλαδούμενη εκστρατεία (Πτέρυγα Λοβοτομής vs Υδροθεραπευτήριο, Αρχεία vs Πολύγραφος) με τυχαία συμβάντα διαδρόμου και ζωντανή πρόοδο κόμβων",
+    "Αναβαθμίσεις Mini-Games I–XVI: Λειτουργία Τραπεζιού 180° σε Πολύγραφο (XI) & Απινιδωτή (XV), Touch Loupe στην Ακτινογραφία (X), Drag Scrub Rail στην Ταινία EVP (IX), Dual Sliders στον Παλμογράφο (VI), 5-LED μπάρα EMF (XIII), -24px Y-offset αφής στον Θερμικό FLIR (XIV), 4-Room Mini-Map CCTV (XVI), 1.0s προετοιμασία στο Άγαλμα (III)",
+    "Πάρτι & Σαμποτάζ: Κρυφές ερωτήσεις ανάκρισης Θαλάμου #09 (I), Διακρίσεις Παρέας (Awards) στο τέλος γύρου και 2 νέες deception εντολές Σαμποτέρ LAN (Ψευδής Παλμός 175 BPM & Αναστροφή Οθόνης 180°)"
   ]
 }

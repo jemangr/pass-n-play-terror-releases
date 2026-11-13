@@ -1,8 +1,8 @@
 <div align="center">
 
-# BLACKWOOD — ΦΑΚΕΛΟΣ #09 (v2.5.0)
+# BLACKWOOD — ΦΑΚΕΛΟΣ #09 (v3.0.0)
 ### *Σύστημα Ανάκρισης, Τακτικής Επιβίωσης & 16 Αισθητηριακών Δοκιμασιών Τρόμου για Android*
-**1–8 Παίκτες • 16+1 Φάκελοι (Εκστρατεία, Nightmare & Difficulty) • Portrait 9:16 • Κρυπτογράφηση AES-256-GCM**
+**1–8 Παίκτες • 16+1 Φάκελοι (Εκστρατεία 5 Κόμβων, Table 180°, Nightmare & Difficulty) • Portrait 9:16 • Κρυπτογράφηση AES-256-GCM**
 
 [![DOWNLOAD APK](https://img.shields.io/badge/DOWNLOAD_APK-pass--n--play--terror.apk-8a1117?style=for-the-badge&logo=android&logoColor=white)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)
 [![LATEST RELEASE](https://img.shields.io/github/v/release/jemangr/pass-n-play-terror-releases?style=for-the-badge&label=RELEASE&color=a88958)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest)
@@ -10,7 +10,7 @@
 
 <br/>
 
-> 🔒 **[ΚΑΤΕΒΑΣΤΕ ΤΟ ΕΠΙΣΗΜΟ APK ΑΠΕΥΘΕΙΑΣ ΕΔΩ (v2.5.0 Build 14)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)**
+> 🔒 **[ΚΑΤΕΒΑΣΤΕ ΤΟ ΕΠΙΣΗΜΟ APK ΑΠΕΥΘΕΙΑΣ ΕΔΩ (v3.0.0 Build 15)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)**
 >
 > 🔗 **Μόνιμος Σύνδεσμος Λήψης:** `https://jemangr.app/terror/` → `https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk`
 
@@ -18,47 +18,46 @@
 
 ---
 
-## ΦΩΤΟΓΡΑΦΙΚΗ ΤΕΚΜΗΡΙΩΣΗ ΣΥΣΤΗΜΑΤΟΣ (SCREENSHOTS)
+## ΦΩΤΟΓΡΑΦΙΚΗ ΤΕΚΜΗΡΙΩΣΗ ΣΥΣΤΗΜΑΤΟΣ (SCREENSHOTS v3.0.0)
 
 <div align="center">
 
-| ΚΕΝΤΡΙΚΟ ΜΕΝΟΥ ΔΙΚΟΓΡΑΦΙΑΣ | ΑΠΟΡΡΗΤΟΙ ΦΑΚΕΛΟΙ (I–XVI) |
+| ΚΕΝΤΡΙΚΟ ΜΕΝΟΥ & ΠΡΟΕΠΙΛΟΓΕΣ | ΑΠΟΡΡΗΤΟΙ ΦΑΚΕΛΟΙ (I–XVI) |
 | :---: | :---: |
-| <img src="./screenshots/v2_screen_1_title.png" width="360" alt="Blackwood Title Menu" /> | <img src="./screenshots/v2_screen_2_cases.png" width="360" alt="Classified Case Files" /> |
+| <img src="./screenshots/v3_screen_1_title.png" width="360" alt="Blackwood Title Menu v3" /> | <img src="./screenshots/v3_screen_2_cases.png" width="360" alt="Classified Case Files v3" /> |
 
-| ΦΑΚΕΛΟΣ XI: ΔΙΠΛΟΣ ΠΟΛΥΓΡΑΦΟΣ | ΦΑΚΕΛΟΣ XII: ΣΕΙΣΜΟΓΡΑΦΟΣ ΣΟΝΑΡ |
+| ΧΑΡΤΗΣ ΠΤΕΡΥΓΑΣ 5 ΚΟΜΒΩΝ | ΜΗΤΡΩΟ & ΛΕΙΤΟΥΡΓΙΕΣ 2x2 |
 | :---: | :---: |
-| <img src="./screenshots/v2_screen_12_polygraph.png" width="360" alt="Dual Polygraph" /> | <img src="./screenshots/v2_screen_13_seismograph.png" width="360" alt="Acoustic Seismograph" /> |
+| <img src="./screenshots/v3_screen_4_map.png" width="360" alt="5-Node Wing Map" /> | <img src="./screenshots/v3_screen_3_roster.png" width="360" alt="Patient Roster v3" /> |
 
-| ΦΑΚΕΛΟΣ XIII: ΑΝΙΧΝΕΥΤΗΣ EMF 360° | ΦΑΚΕΛΟΣ XIV: ΘΕΡΜΙΚΟΣ ΣΑΡΩΤΗΣ FLIR |
+| ΠΟΛΥΓΡΑΦΟΣ — ΤΡΑΠΕΖΙ 180° | ΘΕΡΜΙΚΟΣ ΣΑΡΩΤΗΣ FLIR |
 | :---: | :---: |
-| <img src="./screenshots/v2_screen_14_emf.png" width="360" alt="EMF Magnetometer Radar" /> | <img src="./screenshots/v2_screen_15_thermal.png" width="360" alt="FLIR Thermal Scanner" /> |
+| <img src="./screenshots/v3_screen_7_polygraph_table.png" width="360" alt="Polygraph 180 Table Mode" /> | <img src="./screenshots/v3_screen_8_thermal.png" width="360" alt="FLIR Thermal Scanner v3" /> |
 
-| ΦΑΚΕΛΟΣ XV: ΑΠΙΝΙΔΩΤΗΣ R-WAVE 360J | ΦΑΚΕΛΟΣ XVI: ΝΥΧΤΕΡΙΝΗ ΒΑΡΔΙΑ CCTV |
+| ΑΚΤΙΝΟΓΡΑΦΙΑ & ΦΑΚΟΣ ΑΦΗΣ | ΜΗΧΑΝΙΚΟΣ ΚΡΥΠΤΟΓΡΑΦΟΣ |
 | :---: | :---: |
-| <img src="./screenshots/v2_screen_16_defib.png" width="360" alt="R-Wave Defibrillator" /> | <img src="./screenshots/v2_screen_17_cctv.png" width="360" alt="Night Shift CCTV Lockdown" /> |
+| <img src="./screenshots/v3_screen_6_xray.png" width="360" alt="X-Ray Touch Loupe" /> | <img src="./screenshots/v3_screen_5_cryptex.png" width="360" alt="Cryptex Lock Dial" /> |
 
-| ΠΕΡΙΣΤΡΟΦΟ ΔΙΕΥΘΥΝΤΗ (6 ΘΑΛΑΜΕΣ) | ΠΑΛΜΟΓΡΑΦΟΣ ΣΥΧΝΟΤΗΤΩΝ EVP |
+| ΟΔΗΓΟΣ ΒΟΗΘΕΙΑΣ (?) & ΠΑΥΣΗ | ΚΟΝΣΟΛΑ ΣΑΜΠΟΤΕΡ LAN |
 | :---: | :---: |
-| <img src="./screenshots/v2_screen_3_revolver.png" width="360" alt="Director Revolver Roulette" /> | <img src="./screenshots/v2_screen_4_oscilloscope.png" width="360" alt="Dual-Wave Oscilloscope" /> |
+| <img src="./screenshots/v3_screen_9_help.png" width="360" alt="Quick Help Pause Modal" /> | <img src="./screenshots/v3_screen_10_saboteur.png" width="360" alt="Saboteur LAN Cockpit v3" /> |
 
-| ΦΑΚΕΛΟΣ VII: ΕΡΓΑΛΕΙΑ ΝΕΚΡΟΨΙΑΣ | ΦΑΚΕΛΟΣ VIII: ΥΠΕΡΙΩΔΕΣ ΦΩΣ & ΤΟΞΙΚΟΛΟΓΙΑ |
+| ΔΙΑΚΡΙΣΕΙΣ ΠΑΡΕΑΣ & ΣΥΝΟΨΗ | ΕΠΙΘΕΣΗ ΟΝΤΟΤΗΤΑΣ & ΔΕΛΤΙΟ |
 | :---: | :---: |
-| <img src="./screenshots/v2_screen_8_autopsy.png" width="360" alt="Infected Autopsy Tools" /> | <img src="./screenshots/v2_screen_9_toxicology.png" width="360" alt="UV Lamp & Forensic Toxicology" /> |
-
-| ΦΑΚΕΛΟΣ IX: ΑΝΑΛΟΓΙΚΗ ΜΑΓΝΗΤΟΤΑΙΝΙΑ EVP | ΦΑΚΕΛΟΣ X: ΑΡΝΗΤΙΚΟ ΑΚΤΙΝΟΓΡΑΦΙΑΣ |
-| :---: | :---: |
-| <img src="./screenshots/v2_screen_10_evp_tape.png" width="360" alt="EVP Tape Machine" /> | <img src="./screenshots/v2_screen_11_xray.png" width="360" alt="X-Ray Lightbox Negative" /> |
-
-| ΕΜΦΑΝΙΣΗ ΟΝΤΟΤΗΤΑΣ & ΙΑΤΡΟΔΙΚΑΣΤΙΚΟ ΔΕΛΤΙΟ | ΜΗΤΡΩΟ ΠΑΙΚΤΩΝ & ΣΥΝΔΕΣΗ WI-FI |
-| :---: | :---: |
-| <img src="./screenshots/v2_screen_5_jumpscare.png" width="360" alt="Jumpscare and Forensic Report" /> | <img src="./screenshots/v2_screen_6_roster.png" width="360" alt="Patient Roster Screen" /> |
-
-| ΑΠΟΜΑΚΡΥΣΜΕΝΗ ΚΟΝΣΟΛΑ ΣΑΜΠΟΤΕΡ (PC/LAN) |
-| :---: |
-| <img src="./screenshots/v2_screen_7_saboteur.png" width="360" alt="Saboteur Remote Cockpit" /> |
+| <img src="./screenshots/v3_screen_11_summary.png" width="360" alt="Summary Party Awards" /> | <img src="./screenshots/v3_screen_12_jumpscare.png" width="360" alt="Jumpscare & Forensic Card" /> |
 
 </div>
+
+---
+
+## ΑΝΑΒΑΘΜΙΣΕΙΣ ΕΚΔΟΣΗΣ 3.0.0 (BUILD 15) — UI/UX OVERHAUL, ΧΑΡΤΗΣ ΠΤΕΡΥΓΑΣ 5 ΚΟΜΒΩΝ & GAMEPLAY I–XVI
+
+- **Διπλή Τυπογραφία (`--font-sans` & `--font-mono`):** Καθαρές οδηγίες & περιγραφές, μονοδιάστατοι κωδικοί/χρονόμετρα και αποκατάσταση active states δυσκολίας (`.selected`).
+- **3 Έτοιμες Προεπιλογές (Ταχεία 5', Ανάκρισις Πάρτι, Πτέρυγα), Onboarding 3 Βημάτων & Πλήκτρο Βοήθειας `?`:** Αυτόματη παύση χρόνου + θόλωμα αρένας και 3-γραμμο ευρετήριο Στόχου/Χειρισμού/Ποινής ανά φάκελο.
+- **Διαδραστικός Χάρτης Πτέρυγας 5 Κόμβων (`#screen-map`):** Επιλογή διαδρομής (*Πτέρυγα Λοβοτομής vs Υδροθεραπευτήριο*, *Αρχεία vs Κρύπτη Πολυγράφου*) και συμβάντα διαδρόμου ανάμεσα στα στάδια.
+- **Λειτουργία Τραπεζιού 180° (Dual-Player Table Mode):** Αντιστροφή του πάνω pad στον **Διπλό Πολύγραφο (XI)** και τον **Απινιδωτή R-Wave (XV)** για αντικριστό παιχνίδι στο τραπέζι.
+- **Χειρισμός & Οπτικό Feedback Φακέλων I–XVI:** Touch Loupe στην Ακτινογραφία (`X`), Drag Scrub Rail στην Ταινία EVP (`IX`), Dual Sliders + μπάρα συγχρονισμού στον Παλμογράφο (`VI`), 5-LED μπάρα στο EMF (`XIII`), `-24px` Y-offset αφής στον Θερμικό FLIR (`XIV`), 4-Room Mini-Map στο CCTV (`XVI`), Χρόνος 1.0s προετοιμασίας στο Άγαλμα (`III`), Κάρτες Ερωτήσεων στον Θάλαμο #09 (`I`), Visual Bar Wires (`V`).
+- **Κονσόλα Σαμποτέρ LAN & Party Awards:** Νέες ενέργειες αποπροσανατολισμού (**Ψευδής Παλμός 175 BPM** & **Αναστροφή Οθόνης 180°**) και βραβεία παρέας στο τέλος γύρου.
 
 ---
 
