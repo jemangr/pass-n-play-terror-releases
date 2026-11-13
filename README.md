@@ -1,8 +1,8 @@
 <div align="center">
 
-# BLACKWOOD — ΦΑΚΕΛΟΣ #09 (v2.4.0)
+# BLACKWOOD — ΦΑΚΕΛΟΣ #09 (v2.5.0)
 ### *Σύστημα Ανάκρισης, Τακτικής Επιβίωσης & 16 Αισθητηριακών Δοκιμασιών Τρόμου για Android*
-**1–8 Παίκτες • 16+1 Φάκελοι (Εκστρατεία & Nightmare) • Portrait 9:16 • Κρυπτογράφηση AES-256-GCM**
+**1–8 Παίκτες • 16+1 Φάκελοι (Εκστρατεία, Nightmare & Difficulty) • Portrait 9:16 • Κρυπτογράφηση AES-256-GCM**
 
 [![DOWNLOAD APK](https://img.shields.io/badge/DOWNLOAD_APK-pass--n--play--terror.apk-8a1117?style=for-the-badge&logo=android&logoColor=white)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)
 [![LATEST RELEASE](https://img.shields.io/github/v/release/jemangr/pass-n-play-terror-releases?style=for-the-badge&label=RELEASE&color=a88958)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest)
@@ -10,7 +10,7 @@
 
 <br/>
 
-> 🔒 **[ΚΑΤΕΒΑΣΤΕ ΤΟ ΕΠΙΣΗΜΟ APK ΑΠΕΥΘΕΙΑΣ ΕΔΩ (v2.4.0 Build 13)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)**
+> 🔒 **[ΚΑΤΕΒΑΣΤΕ ΤΟ ΕΠΙΣΗΜΟ APK ΑΠΕΥΘΕΙΑΣ ΕΔΩ (v2.5.0 Build 14)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)**
 >
 > 🔗 **Μόνιμος Σύνδεσμος Λήψης:** `https://jemangr.app/terror/` → `https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk`
 
@@ -59,6 +59,25 @@
 | <img src="./screenshots/v2_screen_7_saboteur.png" width="360" alt="Saboteur Remote Cockpit" /> |
 
 </div>
+
+---
+
+## ΑΝΑΒΑΘΜΙΣΕΙΣ ΕΚΔΟΣΗΣ 2.5.0 (BUILD 14) — ΒΑΘΙΑ ΔΙΟΡΘΩΣΗ ΡΟΗΣ, BUGFIXES & GAMEPLAY ΕΠΕΚΤΑΣΗ (I–XVI)
+
+### 1. Κρίσιμες Διορθώσεις Bugs & Ροής
+- **Ακτινογραφία (`xray`):** Διορθώθηκε η κάθετη γραμμή σταυρονήματος Q1–Q4, προστέθηκε ποινή +14 BPM/-5s σε λάθος σάρωση, φωσφορισμός ξένου σώματος μόνο στο sweet spot `35%–68%` Dimmer και έλεγχος τρόμου γυροσκοπίου (`>6.5°`).
+- **Πολύγραφος (`polygraph`):** Αφαιρέθηκε το λανθασμένο αντίστροφο χρονόμετρο 45s, προστέθηκαν ανεξάρτητες μπάρες στρες ΠΑΙΚΤΗ Α & Β και αυτόματος εντοπισμός υπαίτιου κατάρρευσης.
+- **Ομαδική Ροή & Σκορ:** Τα ομαδικά παιχνίδια (`possessed`, `roulette`, `statue`, `autopsy`, `polygraph`) ολοκληρώνονται πλέον σε 1 συμπαγή παρτίδα ομάδας με **συσσωρευτική βαθμολογία** μεταξύ γύρων, ενώ οι κρυφές παγίδες Pass-and-Play πυροδοτούνται σε όλα τα στάδια.
+- **Επιλογή Κατηγορίας Tabs & Stealth Σαμποτάζ:** Η αλλαγή καρτέλας δεν ακυρώνει τον επιλεγμένο φάκελο, η μπάρα δοκιμαστικού σαμποτάζ κρύφτηκε από την οθόνη θύματος (ρυθμιζόμενη στα Options), και ο Προδότης ενεργοποιείται διακριτικά με διπλό πάτημα στον τίτλο.
+
+### 2. Δυσκολία, Γρήγορη Εκκίνηση, Solo AI, Persistence & Vault 1974
+- **3 Επίπεδα Δυσκολίας (`clinical` / `hard` / `despair`)**, κουμπί **ΓΡΗΓΟΡΗ ΕΚΚΙΝΗΣΗ**, κλιμάκωση Εκστρατείας, **0.28s Audio Vacuum** πριν το jumpscare & **Live Calibration Telemetry**.
+- **AI Μάρτυρες σε Solo Φάκελο I (`possessed`):** 3 διασταυρωμένες μαρτυρίες όπου 1 αντιφάσκει με το ιατροδικαστικό εύρημα.
+- **Μόνιμο Αρχείο `localStorage` & Κλειδαριά Θησαυροφυλακίου 1974:** Διατήρηση εγγράφων/στοιχείων/ρεκόρ και μυστική απασφάλιση κωδικού Blackwood.
+
+### 3. Ενισχυμένο Gameplay II–XVI & Voltage Economy Σαμποτέρ
+- **Cases II–XVI:** *Invert Polarity* & *Shoot Opponent* στη Ρουλέτα, κωδικός 4 ψηφίων Cryptex (`1974`), υποχρεωτική ζώνη AM/FM/SW στον Παλμογράφο, όριο 2 απολυμάνσεων στη Νεκροψία, 6 αντιδραστήρια με ακριβή σειρά στην Τοξικολογία, χειροκίνητο scrub μπομπίνας & θραύση 15 ips, ηχητικός εντοπισμός & blind-zone Σεισμογράφου, ψευδής εστία 50Hz στο EMF, κινούμενο θερμό δόλωμα `+37.2°C` στο FLIR, και υπερφόρτιση >360J + κλιμάκωση R-wave με βάση το BPM.
+- **Σαμποτέρ LAN Voltage Economy (0–100%, +4%/s) & Host Live Counter Badge.**
 
 ---
 
