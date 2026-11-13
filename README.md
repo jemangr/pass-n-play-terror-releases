@@ -1,8 +1,8 @@
 <div align="center">
 
-# BLACKWOOD — ΦΑΚΕΛΟΣ #09 (v5.0.0)
-### *Option Δ Noir Radar UI • 26 Deep-Concentration Horror Cases (I–XXVI) • Bilingual EN/EL • Pass & Play + LAN Saboteur*
-**1–8 Παίκτες • Option Δ Radar & Bottom Dock • 26 Δωρεάν Φάκελοι • 100% Δίγλωσσο EN/EL • Daily Shift 2X • Viral 9:16 QR • AES-256-GCM**
+# BLACKWOOD — ΦΑΚΕΛΟΣ #09 (v5.0.1)
+### *Option Δ Noir Radar UI • 26 Horror Cases (I–XXVI) • Zero-Leak EN/EL • In-App Updater & Share • LAN Saboteur*
+**1–8 Παίκτες • Option Δ Radar & Bottom Dock • 26 Δωρεάν Φάκελοι • 100% Δίγλωσσο EN/EL • In-App APK Update • Κοινοποίηση App • AES-256-GCM**
 
 [![DOWNLOAD APK](https://img.shields.io/badge/DOWNLOAD_APK-pass--n--play--terror.apk-8a1117?style=for-the-badge&logo=android&logoColor=white)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)
 [![LATEST RELEASE](https://img.shields.io/github/v/release/jemangr/pass-n-play-terror-releases?style=for-the-badge&label=RELEASE&color=a88958)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest)
@@ -10,7 +10,7 @@
 
 <br/>
 
-> 🔒 **[ΚΑΤΕΒΑΣΤΕ ΤΟ ΕΠΙΣΗΜΟ APK ΑΠΕΥΘΕΙΑΣ ΕΔΩ (v5.0.0 Build 17)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)**
+> 🔒 **[ΚΑΤΕΒΑΣΤΕ ΤΟ ΕΠΙΣΗΜΟ APK ΑΠΕΥΘΕΙΑΣ ΕΔΩ (v5.0.1 Build 18)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)**
 >
 > 🔗 **Μόνιμος Σύνδεσμος Λήψης:** `https://jemangr.app/terror/` → `https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk`
 
@@ -39,6 +39,14 @@
 | <img src="./screenshots/v5_screen_8_pressure_tumblers.png" width="360" alt="5-Disc Safecracker v5" /> | <img src="./screenshots/v5_screen_7_daily_2x_summary.png" width="360" alt="Daily 2X Summary v5" /> |
 
 </div>
+
+---
+
+## ΑΝΑΒΑΘΜΙΣΕΙΣ ΕΚΔΟΣΗΣ 5.0.1 (BUILD 18) — ZERO-LEAK 100% EN/EL, IN-APP APK UPDATER & APP SHARE
+
+- **100% Μηδενικές Διαρροές Ελληνικών στα Αγγλικά (Audit 0 Leaks):** Πλήρης δίγλωσση συμμόρφωση σε όλους τους 26 φακέλους (`I–XXVI`), Κονσόλα Σαμποτέρ LAN (badges, telemetry, logs, alerts), Ρυθμίσεις, Μητρώο, Επιλόγους A/B/C και όλα τα Modals.
+- **Ενιαίο Εντός-Εφαρμογής Update (`#btn-inapp-update`):** Έλεγχος `version.json` / GitHub Releases API, λήψη APK εντός της εφαρμογής με μπάρα προόδου (`onNativeUpdateProgress`), `ApkUpdateProvider` (`ContentProvider`) και αυτόματο άνοιγμα του εγκαταστάτη Android (`ACTION_INSTALL_PACKAGE` / `REQUEST_INSTALL_PACKAGES`) από ένα μόνο κουμπί.
+- **Κοινοποίηση Εφαρμογής στις Ρυθμίσεις (`#btn-share-app`):** Άμεση αποστολή του παιχνιδιού σε φίλους μέσω native Android Share Sheet (`Intent.ACTION_SEND`) ή Web Share / Clipboard.
 
 ---
 
