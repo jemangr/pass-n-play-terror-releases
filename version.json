@@ -1,19 +1,19 @@
 {
   "appName": "Pass & Play Terror (BLACKWOOD: CASE #09)",
   "packageId": "app.jemangr.passnplayterror",
-  "version": "5.2.0",
-  "versionCode": 20,
-  "releasedAt": "2026-11-13T16:30:00.000Z",
+  "version": "5.3.0",
+  "versionCode": 21,
+  "releasedAt": "2026-11-13T16:55:00.000Z",
   "mandatory": false,
   "apkFileName": "pass-n-play-terror.apk",
   "apkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk",
-  "fallbackApkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/tag/v5.2.0",
+  "fallbackApkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/tag/v5.3.0",
   "supportEmail": "support@jemangr.app",
-  "playersSupported": "1-8 Players (38 Cases • 12 Horror Party Hits • Pre-Game Briefing Modal • Zero-Leak EN/EL • LAN 2nd-Phone Manual 1974 • In-App Updater)",
+  "playersSupported": "1-8 Players (54 Cases • Wave 2: 16 Party & Board Classics • Bar/No-Mic Filter • Custom Party Jokes • Night Audio/Flash • 4:5 Story Strip)",
   "releaseNotes": [
-    "v5.2.0 (Build 20) — 12 Horror Party Classics (Total 38 Cases!) + Pre-Game Rules Briefing Modal",
-    "Pre-Game Briefing Card (#pregame-briefing-modal): Pauses round timer automatically at mission start, shows required hardware sensor badges, clear 3-step instructions (Objective / Controls / Penalty) in EL & EN, toggleable in Settings",
-    "8 New Party Hits (PARTY 16): Ward Forehead (Heads Up!), Pass the Syringe (Hot Potato Mic), Silent Quarantine (<65dB + Strobe), The Parasite (Spyfall Blackwood), Psychometer (Wavelength 0–100%), Madness Sketch (Fake Artist Canvas), The Black Pact (Cockroach Poker), Dead Words Taboo",
-    "2 Co-op / Mind Puzzles (PUZZLES 14) + 2 All-Sensor Thrillers (SENSORS 8): Broken 1974 Manual (Keep Talking + Live 2nd-Phone LAN Manual Sync!), Ward Telepathy 1–99 (The Mind), Blind Patrol (360° Compass + <12 Lux), and Trap Beats (Guard Simon Says)"
+    "v5.3.0 (Build 21) — Wave 2 Expansion: +16 Party & Board Game Adaptations (Total 54 Cases!) + 5 Marketing Upgrades",
+    "Venue Filter Bar (#venue-filter-bar): Instant ALL (54) vs BAR / NO MIC (26 silent social games for noisy bars) + Custom Party Words (#custom-jokes-box) injected into Chameleon, Just One, Time's Up, Heads Up & Fake Artist",
+    "10 New Social & Bluff Party Classics (PARTY 26): Secret Ward (Zero-Mod Avalon + Audio/Flash Night Phase), Morgue Coup, Ward Chameleon 4x4, Skull & Elixirs, Sketch Chain (+ 4:5 Story Strip Export), Just One (Auto Duplicate-Burn), Exploding Vials (4s Defuse), Standoff 3-2-1, Time's Up x3, and Director's Cup (4th King Vial)",
+    "3 Code Puzzles (PUZZLES 17) + 3 Hardware Thrillers (SENSORS 11): Codenames 4x4, Decrypto Cipher, Death Tapple Wheel, Red Light / Green Light 1974 (Gyro Freeze + Laser Corridor), Surgical Jenga (Tilt Physics Bone Tower), and Precision Scream dB Corridor"
   ]
 }
