@@ -1,6 +1,6 @@
 <div align="center">
 
-# BLACKWOOD — ΦΑΚΕΛΟΣ #09 (v2.1.0)
+# BLACKWOOD — ΦΑΚΕΛΟΣ #09 (v2.2.0)
 ### *Σύστημα Ανάκρισης, Τακτικής Επιβίωσης & Μηχανικών Δοκιμασιών Τρόμου για Android*
 **1–8 Παίκτες • Ελληνική Γλώσσα • Portrait 9:16 • Κρυπτογράφηση AES-256-GCM**
 
@@ -10,7 +10,7 @@
 
 <br/>
 
-> 🔒 **[ΚΑΤΕΒΑΣΤΕ ΤΟ ΕΠΙΣΗΜΟ APK ΑΠΕΥΘΕΙΑΣ ΕΔΩ (v2.1.0 Build 10)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)**
+> 🔒 **[ΚΑΤΕΒΑΣΤΕ ΤΟ ΕΠΙΣΗΜΟ APK ΑΠΕΥΘΕΙΑΣ ΕΔΩ (v2.2.0 Build 11)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)**
 >
 > 🔗 **Μόνιμος Σύνδεσμος Λήψης:** `https://jemangr.app/terror/` → `https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk`
 
@@ -43,6 +43,21 @@
 | <img src="./screenshots/v2_screen_7_saboteur.png" width="360" alt="Saboteur Remote Cockpit" /> |
 
 </div>
+
+---
+
+## ΑΝΑΒΑΘΜΙΣΕΙΣ ΕΚΔΟΣΗΣ 2.2.0 (BUILD 11) — ΑΠΟΜΟΝΩΣΗ ΗΧΟΥ & AUDIO FOCUS
+
+Η έκδοση 2.2.0 επιλύει ριζικά το ζήτημα της ηχητικής απομόνωσης κατά την εναλλαγή οθονών και τις τηλεφωνικές κλήσεις:
+
+### 1. Διαχείριση Android Audio Focus (`AudioManager`)
+- **Αυτόματη Σίγαση σε Εισερχόμενη Κλήση:** Όταν χτυπήσει το τηλέφωνο ή ενεργοποιηθεί εισερχόμενη κλήση/κουδούνισμα, το σύστημα λαμβάνει αυτόματα `AUDIOFOCUS_LOSS_TRANSIENT`. Όλοι οι ήχοι του παιχνιδιού τίθενται ακαριαία σε απόλυτη σίγαση (`gain = 0.0`) και το WebAudio `AudioContext` αναστέλλεται (`suspend()`).
+- **Απελευθέρωση Hardware Μικροφώνου:** Στο `onPause()` και `onStop()`, το native thread του `AudioRecord` σταματά και αποδεσμεύει αμέσως το μικρόφωνο ώστε να μην παρεμποδίζει την τηλεφωνική συνομιλία.
+- **Επαναφορά με Focus:** Μόλις ολοκληρωθεί η κλήση και η εφαρμογή επανέλθει στο προσκήνιο (`AUDIOFOCUS_GAIN`), ο ήχος αποκαθίσταται ομαλά μόνο εάν ο παίκτης βρίσκεται σε ενεργή δοκιμασία.
+
+### 2. Ηχητική Απομόνωση κατά την Αλλαγή Οθόνης (Screen Navigation)
+- **Πλήρης Σίγαση στα Μενού:** Όταν ο παίκτης πατά «◁ ΠΙΣΩ», «ΜΕΝΟΥ» ή αλλάζει οθόνη (Φάκελοι, Μητρώο, Ρυθμίσεις, Σαμποτέρ), διακόπτονται αμέσως όλοι οι ήχοι περιβάλλοντος (ambient room drone, UV ballast hum, text-to-speech) και το `masterAudioBus` τίθεται στο 0.
+- **Web Visibility & Lifecycle Listeners:** Υποστήριξη `visibilitychange`, `pagehide`, `pageshow`, `blur` και `focus` ώστε οποιαδήποτε ελαχιστοποίηση της εφαρμογής ή άνοιγμα της μπάρας ειδοποιήσεων να διακόπτει αμέσως τον ήχο.
 
 ---
 
