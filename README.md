@@ -265,7 +265,7 @@
 
 ## ΤΕΧΝΙΚΗ ΤΕΚΜΗΡΙΩΣΗ (ΙΔΙΩΤΙΚΟ ΑΠΟΘΕΤΗΡΙΟ)
 
-- [`DECISIONS.md`](./DECISIONS.md) — Αποφάσεις αρχιτεκτονικής λογισμικού (`ADR-001` έως `ADR-021`).
+- [`DECISIONS.md`](./DECISIONS.md) — Αποφάσεις αρχιτεκτονικής λογισμικού (`ADR-001` έως `ADR-024`).
 - [`Pass and Play Terror.docx`](./Pass%20and%20Play%20Terror.docx) — Αρχικό έγγραφο σχεδιασμού.
 - [`walkthrough.md`](./walkthrough.md) — Οδηγός δοκιμών και επαλήθευσης.
 
