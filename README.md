@@ -1,8 +1,8 @@
 <div align="center">
 
-# BLACKWOOD — ΦΑΚΕΛΟΣ #09 (v3.0.0)
-### *Σύστημα Ανάκρισης, Τακτικής Επιβίωσης & 16 Αισθητηριακών Δοκιμασιών Τρόμου για Android*
-**1–8 Παίκτες • 16+1 Φάκελοι (Εκστρατεία 5 Κόμβων, Table 180°, Nightmare & Difficulty) • Portrait 9:16 • Κρυπτογράφηση AES-256-GCM**
+# BLACKWOOD — ΦΑΚΕΛΟΣ #09 (v4.0.0)
+### *Bilingual (EN+EL) Tactical Survival & 16-Case Horror Game for Android • Pass & Play + LAN Saboteur*
+**1–8 Παίκτες • Δίγλωσσο EN/EL • Ημερήσια Βάρδια & Streak • 3 Πακέτα Ποινών • Viral 9:16 Κάρτα & QR • 16 Δωρεάν Φάκελοι • AES-256-GCM**
 
 [![DOWNLOAD APK](https://img.shields.io/badge/DOWNLOAD_APK-pass--n--play--terror.apk-8a1117?style=for-the-badge&logo=android&logoColor=white)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)
 [![LATEST RELEASE](https://img.shields.io/github/v/release/jemangr/pass-n-play-terror-releases?style=for-the-badge&label=RELEASE&color=a88958)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest)
@@ -10,7 +10,7 @@
 
 <br/>
 
-> 🔒 **[ΚΑΤΕΒΑΣΤΕ ΤΟ ΕΠΙΣΗΜΟ APK ΑΠΕΥΘΕΙΑΣ ΕΔΩ (v3.0.0 Build 15)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)**
+> 🔒 **[ΚΑΤΕΒΑΣΤΕ ΤΟ ΕΠΙΣΗΜΟ APK ΑΠΕΥΘΕΙΑΣ ΕΔΩ (v4.0.0 Build 16)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)**
 >
 > 🔗 **Μόνιμος Σύνδεσμος Λήψης:** `https://jemangr.app/terror/` → `https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk`
 
@@ -18,35 +18,39 @@
 
 ---
 
-## ΦΩΤΟΓΡΑΦΙΚΗ ΤΕΚΜΗΡΙΩΣΗ ΣΥΣΤΗΜΑΤΟΣ (SCREENSHOTS v3.0.0)
+## ΦΩΤΟΓΡΑΦΙΚΗ ΤΕΚΜΗΡΙΩΣΗ ΣΥΣΤΗΜΑΤΟΣ (SCREENSHOTS v4.0.0)
 
 <div align="center">
 
-| ΚΕΝΤΡΙΚΟ ΜΕΝΟΥ & ΠΡΟΕΠΙΛΟΓΕΣ | ΑΠΟΡΡΗΤΟΙ ΦΑΚΕΛΟΙ (I–XVI) |
+| ΚΕΝΤΡΙΚΟ ΜΕΝΟΥ (EL) & ΗΜΕΡΗΣΙΑ ΒΑΡΔΙΑ | BILINGUAL MENU (EN) & HERO HOOKS |
 | :---: | :---: |
-| <img src="./screenshots/v3_screen_1_title.png" width="360" alt="Blackwood Title Menu v3" /> | <img src="./screenshots/v3_screen_2_cases.png" width="360" alt="Classified Case Files v3" /> |
+| <img src="./screenshots/v4_screen_1_title_el.png" width="360" alt="Blackwood Title Menu EL v4" /> | <img src="./screenshots/v4_screen_2_title_en.png" width="360" alt="Blackwood Title Menu EN v4" /> |
 
-| ΧΑΡΤΗΣ ΠΤΕΡΥΓΑΣ 5 ΚΟΜΒΩΝ | ΜΗΤΡΩΟ & ΛΕΙΤΟΥΡΓΙΕΣ 2x2 |
+| ΠΑΚΕΤΑ ΠΟΙΝΩΝ & ΦΑΚΕΛΟΙ (EN) | JUMPSCARE + AD REVIVE BRIDGE |
 | :---: | :---: |
-| <img src="./screenshots/v3_screen_4_map.png" width="360" alt="5-Node Wing Map" /> | <img src="./screenshots/v3_screen_3_roster.png" width="360" alt="Patient Roster v3" /> |
+| <img src="./screenshots/v4_screen_3_cases_en.png" width="360" alt="Cases & Penalty Packs EN v4" /> | <img src="./screenshots/v4_screen_5_jumpscare_revive.png" width="360" alt="Jumpscare & Ad Revive v4" /> |
 
-| ΠΟΛΥΓΡΑΦΟΣ — ΤΡΑΠΕΖΙ 180° | ΘΕΡΜΙΚΟΣ ΣΑΡΩΤΗΣ FLIR |
+| SPONSORED AD TEST PREVIEW (2.5s) | 9:16 VIRAL REACTION CARD + QR |
 | :---: | :---: |
-| <img src="./screenshots/v3_screen_7_polygraph_table.png" width="360" alt="Polygraph 180 Table Mode" /> | <img src="./screenshots/v3_screen_8_thermal.png" width="360" alt="FLIR Thermal Scanner v3" /> |
+| <img src="./screenshots/v4_screen_4_ad_preview.png" width="360" alt="Rewarded Ad Preview v4" /> | <img src="./screenshots/v4_screen_6_viral_card.png" width="360" alt="9:16 Viral Card & QR v4" /> |
 
-| ΑΚΤΙΝΟΓΡΑΦΙΑ & ΦΑΚΟΣ ΑΦΗΣ | ΜΗΧΑΝΙΚΟΣ ΚΡΥΠΤΟΓΡΑΦΟΣ |
+| ΧΑΡΤΗΣ ΠΤΕΡΥΓΑΣ 5 ΚΟΜΒΩΝ | ΠΟΛΥΓΡΑΦΟΣ — ΤΡΑΠΕΖΙ 180° |
 | :---: | :---: |
-| <img src="./screenshots/v3_screen_6_xray.png" width="360" alt="X-Ray Touch Loupe" /> | <img src="./screenshots/v3_screen_5_cryptex.png" width="360" alt="Cryptex Lock Dial" /> |
-
-| ΟΔΗΓΟΣ ΒΟΗΘΕΙΑΣ (?) & ΠΑΥΣΗ | ΚΟΝΣΟΛΑ ΣΑΜΠΟΤΕΡ LAN |
-| :---: | :---: |
-| <img src="./screenshots/v3_screen_9_help.png" width="360" alt="Quick Help Pause Modal" /> | <img src="./screenshots/v3_screen_10_saboteur.png" width="360" alt="Saboteur LAN Cockpit v3" /> |
-
-| ΔΙΑΚΡΙΣΕΙΣ ΠΑΡΕΑΣ & ΣΥΝΟΨΗ | ΕΠΙΘΕΣΗ ΟΝΤΟΤΗΤΑΣ & ΔΕΛΤΙΟ |
-| :---: | :---: |
-| <img src="./screenshots/v3_screen_11_summary.png" width="360" alt="Summary Party Awards" /> | <img src="./screenshots/v3_screen_12_jumpscare.png" width="360" alt="Jumpscare & Forensic Card" /> |
+| <img src="./screenshots/v3_screen_4_map.png" width="360" alt="5-Node Wing Map" /> | <img src="./screenshots/v3_screen_7_polygraph_table.png" width="360" alt="Polygraph 180 Table Mode" /> |
 
 </div>
+
+---
+
+## ΑΝΑΒΑΘΜΙΣΕΙΣ ΕΚΔΟΣΗΣ 4.0.0 (BUILD 16) — COMMERCIAL FUNNEL, EN+EL & VIRAL SHARE
+
+- **Πλήρης Δίγλωσση Υποστήριξη (`EN` + `EL`):** Αυτόματη ανίχνευση γλώσσας συσκευής (`EN` εκτός ελληνικών συσκευών) και 1-tap εναλλαγή από το Top Bar, μαζί με δαιμονικές φωνές TTS σε `en-US` & `el-GR`.
+- **Zero Cold-Start Friction:** Αφαίρεση ψυχρού popup αδειών κατά το άνοιγμα — το μικρόφωνο ζητείται **Just-In-Time** στην έναρξη της δοκιμασίας και η Selfie Κάμερα Αντιδράσεων είναι προαιρετική από τις Ρυθμίσεις.
+- **Hero Viral & 15" Hooks:** Προβολή **«Πείραξε Φίλο (2ο Κινητό LAN)»** με άμεσο QR και **«Πείραμα 15"»** για ακαριαίο δοκιμαστικό σοκ από την αρχική οθόνη.
+- **Ημερήσια Βάρδια & Streak (`YYYY-MM-DD`):** Νέα ημερήσια υπόθεση με +250 πόντους μπόνους και σερί επιβίωσης (`🔥 STREAK`).
+- **3 Πακέτα Ποινών Πάρτι:** Επιλογή ανάμεσα σε **Κλασικό**, **Party / Δώρα** και **Αφωνία <60dB** στον Τροχό Τρόμου.
+- **9:16 Viral TikTok/Reels Compositor (`540x960`):** Κοινοποίηση κάρτας με τίτλο *"PASSED OUT AT 168 BPM // CAN YOU SURVIVE?"*, τηλεμετρία BPM/dB, Selfie PiP και ενσωματωμένο σκανάρισμα QR για `https://jemangr.app/terror/`.
+- **Δωρεάν με Διαφημίσεις & AdMob Bridge:** Όλοι οι 16 Φάκελοι I–XVI είναι ελεύθεροι από την αρχή, με Rewarded Ad bridge (`2.5s` Test Preview) για Extra Ανάνηψη & 100% Ενέργεια Χάους.
 
 ---
 
