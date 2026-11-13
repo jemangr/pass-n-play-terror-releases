@@ -1,19 +1,19 @@
 {
   "appName": "Pass & Play Terror (BLACKWOOD: CASE #09)",
   "packageId": "app.jemangr.passnplayterror",
-  "version": "5.1.0",
-  "versionCode": 19,
-  "releasedAt": "2026-11-13T15:35:00.000Z",
+  "version": "5.2.0",
+  "versionCode": 20,
+  "releasedAt": "2026-11-13T16:30:00.000Z",
   "mandatory": false,
   "apkFileName": "pass-n-play-terror.apk",
   "apkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk",
-  "fallbackApkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/tag/v5.1.0",
+  "fallbackApkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/tag/v5.2.0",
   "supportEmail": "support@jemangr.app",
-  "playersSupported": "1-8 Players (Noir Card Minimal Home UI • 26 Cases • 4:5 Viral Share & Reaction Video • 100% Zero-Leak EN/EL • In-App Updater • LAN Saboteur)",
+  "playersSupported": "1-8 Players (38 Cases • 12 Horror Party Hits • Pre-Game Briefing Modal • Zero-Leak EN/EL • LAN 2nd-Phone Manual 1974 • In-App Updater)",
   "releaseNotes": [
-    "v5.1.0 (Build 19) — Noir Card Minimal Clean Home UI (Option 1), Compact 4:5 Viral Share Card & Fixed Reaction Video Clip Pipeline",
-    "Noir Card Minimal Home UI: Uncluttered home screen featuring brand header, spacious Hero Noir Card ('ENTER THE WARD' + bold CTA), 3 focused quick tiles (26 Cases, Troll a Friend LAN QR, Daily Shift Streak), quiet footer strip (15s Shock Test), and updated 4-tab Bottom Dock",
-    "Compact 4:5 Share Card + In-App Preview Modal: Replaced 540x960 poster with sleek 720x900 (4:5) layout displaying 'PASS & PLAY TERROR', 'BLACKWOOD: CASE #09', split Entity + Selfie/Video frame with zero overlap, 3 telemetry cells, QR footer, and an interactive preview modal",
-    "Fixed Reaction Video Clip Sharing: Works reliably with or without camera opt-in (preserves WebM EBML header chunk & mic mix, falls back to generated animated horror telemetry MP4/WebM reel via canvas.captureStream, and fixes Android Q+ MediaStore + ApkUpdateProvider FileProvider URI sharing)"
+    "v5.2.0 (Build 20) — 12 Horror Party Classics (Total 38 Cases!) + Pre-Game Rules Briefing Modal",
+    "Pre-Game Briefing Card (#pregame-briefing-modal): Pauses round timer automatically at mission start, shows required hardware sensor badges, clear 3-step instructions (Objective / Controls / Penalty) in EL & EN, toggleable in Settings",
+    "8 New Party Hits (PARTY 16): Ward Forehead (Heads Up!), Pass the Syringe (Hot Potato Mic), Silent Quarantine (<65dB + Strobe), The Parasite (Spyfall Blackwood), Psychometer (Wavelength 0–100%), Madness Sketch (Fake Artist Canvas), The Black Pact (Cockroach Poker), Dead Words Taboo",
+    "2 Co-op / Mind Puzzles (PUZZLES 14) + 2 All-Sensor Thrillers (SENSORS 8): Broken 1974 Manual (Keep Talking + Live 2nd-Phone LAN Manual Sync!), Ward Telepathy 1–99 (The Mind), Blind Patrol (360° Compass + <12 Lux), and Trap Beats (Guard Simon Says)"
   ]
 }
