@@ -1,24 +1,22 @@
 {
   "appName": "Pass & Play Terror (BLACKWOOD: ΦΑΚΕΛΟΣ #09)",
   "packageId": "app.jemangr.passnplayterror",
-  "version": "2.3.0",
-  "versionCode": 12,
-  "releasedAt": "2026-11-13T08:10:00.000Z",
+  "version": "2.4.0",
+  "versionCode": 13,
+  "releasedAt": "2026-11-13T10:20:00.000Z",
   "mandatory": false,
   "apkFileName": "pass-n-play-terror.apk",
   "apkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk",
-  "fallbackApkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/tag/v2.3.0",
+  "fallbackApkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/tag/v2.4.0",
   "supportEmail": "support@jemangr.app",
-  "playersSupported": "1-8 Players (Pass & Play + Local Wi-Fi + Campaign)",
+  "playersSupported": "1-8 Players (Pass & Play + Local Wi-Fi + Campaign + Nightmare)",
   "releaseNotes": [
-    "v2.3.0 (Build 12) — Medical Dossier Expansion, Haptic Cardiac Waveforms & Forensic Evidence",
-    "ΦΑΚΕΛΟΣ IX (evp_tape): Αναλογική Μαγνητοταινία EVP με μεταβλητή ταχύτητα 7.5 ips και ανάποδο scrub",
-    "ΦΑΚΕΛΟΣ X (xray): Αρνητικό Ακτινογραφίας & Φωτεινός Πίνακας με μικροσκοπικό εντοπισμό και χειρουργική εξόλκυση",
-    "Haptic Cardiac Feedback: Dual-pulse waveform (Lub-Dub) συντονισμένο με πραγματικούς καρδιακούς παλμούς (BPM)",
-    "Ambient Light Hardware Sensor: Μέτρηση φωτισμού δωματίου (Lux) και Dark Room Survival Bonus (+150 μονάδες)",
-    "Pass & Play Secret Carrier: Μυστικός φορέας παθογόνου / σαμποτέρ για 2+ παίκτες με κάρτα αποκάλυψης στο φινάλε",
-    "Σειριακή Εκστρατεία Δικογραφίας (Campaign Mode): Διαδοχική αντιμετώπιση φακέλων με μεταφερόμενο ψυχικό τραύμα",
-    "Εφέ Μετάβασης Φακέλου (3D Manila Dossier): Ρεαλιστική κίνηση ανοίγματος απόρρητου φακέλου ασθενούς",
-    "Mini Reaction Video Clip: Αυτόματη καταγραφή 3-δευτερολέπτου αντίδρασης τρόμου και κοινοποίηση WebM"
+    "v2.4.0 (Build 13) — Visual Horror Overhaul, Branching 1974 Evidence Archive, Cases XI–XVI & Asymmetric Saboteur Upgrades",
+    "6 Νέα Minigames (Φάκελοι XI–XVI): Διπλός Πολύγραφος (XI), Σεισμογράφος Σόναρ (XII), Ανιχνευτής EMF 360° (XIII), Θερμικός Σαρωτής FLIR (XIV), Απινιδωτής R-Wave 360J (XV), Νυχτερινή Βάρδια CCTV (XVI)",
+    "Δυναμικό Horror Pipeline: Δυναμικά φόντα 3 πτερύγων, 2.5D parallax φακός, αιματηρά τριχοειδή πάνω από 95 BPM, Subliminals 60ms & Προσωπικές Παραισθήσεις",
+    "Αρχείο 1974 Evidence Board, Πρωτόκολλο Εφιάλτη (Permadeath) & 3 Διακλαδούμενοι Επίλογοι",
+    "Αναβαθμίσεις Φακέλων I–X: Flick περιστροφή κυλίνδρου, Σταυρόνημα γυροσκοπίου, AM/FM/SW & Morse, Μικροσκόπιο 2.5x, UV Lockout, Wow & Flutter EVP, Dimmer ακτινογραφίας",
+    "Αναβάθμιση Σαμποτέρ LAN/PC: Ενεργή Ενέργεια Φορέα (-15%), Proximity Radar, Lux Feed, EMP Blackout & HTTP Polling fallback (/api/telemetry)",
+    "Περιοριστής Ασφαλείας Ήχου (DynamicsCompressorNode Audio Limiter)"
   ]
 }

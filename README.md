@@ -1,8 +1,8 @@
 <div align="center">
 
-# BLACKWOOD — ΦΑΚΕΛΟΣ #09 (v2.3.0)
-### *Σύστημα Ανάκρισης, Τακτικής Επιβίωσης & Μηχανικών Δοκιμασιών Τρόμου για Android*
-**1–8 Παίκτες • Ελληνική Γλώσσα • Portrait 9:16 • Κρυπτογράφηση AES-256-GCM**
+# BLACKWOOD — ΦΑΚΕΛΟΣ #09 (v2.4.0)
+### *Σύστημα Ανάκρισης, Τακτικής Επιβίωσης & 16 Αισθητηριακών Δοκιμασιών Τρόμου για Android*
+**1–8 Παίκτες • 16+1 Φάκελοι (Εκστρατεία & Nightmare) • Portrait 9:16 • Κρυπτογράφηση AES-256-GCM**
 
 [![DOWNLOAD APK](https://img.shields.io/badge/DOWNLOAD_APK-pass--n--play--terror.apk-8a1117?style=for-the-badge&logo=android&logoColor=white)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)
 [![LATEST RELEASE](https://img.shields.io/github/v/release/jemangr/pass-n-play-terror-releases?style=for-the-badge&label=RELEASE&color=a88958)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest)
@@ -10,7 +10,7 @@
 
 <br/>
 
-> 🔒 **[ΚΑΤΕΒΑΣΤΕ ΤΟ ΕΠΙΣΗΜΟ APK ΑΠΕΥΘΕΙΑΣ ΕΔΩ (v2.3.0 Build 12)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)**
+> 🔒 **[ΚΑΤΕΒΑΣΤΕ ΤΟ ΕΠΙΣΗΜΟ APK ΑΠΕΥΘΕΙΑΣ ΕΔΩ (v2.4.0 Build 13)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)**
 >
 > 🔗 **Μόνιμος Σύνδεσμος Λήψης:** `https://jemangr.app/terror/` → `https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk`
 
@@ -22,9 +22,21 @@
 
 <div align="center">
 
-| ΚΕΝΤΡΙΚΟ ΜΕΝΟΥ ΔΙΚΟΓΡΑΦΙΑΣ | ΑΠΟΡΡΗΤΟΙ ΦΑΚΕΛΟΙ ΔΟΚΙΜΑΣΙΩΝ |
+| ΚΕΝΤΡΙΚΟ ΜΕΝΟΥ ΔΙΚΟΓΡΑΦΙΑΣ | ΑΠΟΡΡΗΤΟΙ ΦΑΚΕΛΟΙ (I–XVI) |
 | :---: | :---: |
 | <img src="./screenshots/v2_screen_1_title.png" width="360" alt="Blackwood Title Menu" /> | <img src="./screenshots/v2_screen_2_cases.png" width="360" alt="Classified Case Files" /> |
+
+| ΦΑΚΕΛΟΣ XI: ΔΙΠΛΟΣ ΠΟΛΥΓΡΑΦΟΣ | ΦΑΚΕΛΟΣ XII: ΣΕΙΣΜΟΓΡΑΦΟΣ ΣΟΝΑΡ |
+| :---: | :---: |
+| <img src="./screenshots/v2_screen_12_polygraph.png" width="360" alt="Dual Polygraph" /> | <img src="./screenshots/v2_screen_13_seismograph.png" width="360" alt="Acoustic Seismograph" /> |
+
+| ΦΑΚΕΛΟΣ XIII: ΑΝΙΧΝΕΥΤΗΣ EMF 360° | ΦΑΚΕΛΟΣ XIV: ΘΕΡΜΙΚΟΣ ΣΑΡΩΤΗΣ FLIR |
+| :---: | :---: |
+| <img src="./screenshots/v2_screen_14_emf.png" width="360" alt="EMF Magnetometer Radar" /> | <img src="./screenshots/v2_screen_15_thermal.png" width="360" alt="FLIR Thermal Scanner" /> |
+
+| ΦΑΚΕΛΟΣ XV: ΑΠΙΝΙΔΩΤΗΣ R-WAVE 360J | ΦΑΚΕΛΟΣ XVI: ΝΥΧΤΕΡΙΝΗ ΒΑΡΔΙΑ CCTV |
+| :---: | :---: |
+| <img src="./screenshots/v2_screen_16_defib.png" width="360" alt="R-Wave Defibrillator" /> | <img src="./screenshots/v2_screen_17_cctv.png" width="360" alt="Night Shift CCTV Lockdown" /> |
 
 | ΠΕΡΙΣΤΡΟΦΟ ΔΙΕΥΘΥΝΤΗ (6 ΘΑΛΑΜΕΣ) | ΠΑΛΜΟΓΡΑΦΟΣ ΣΥΧΝΟΤΗΤΩΝ EVP |
 | :---: | :---: |
@@ -47,6 +59,27 @@
 | <img src="./screenshots/v2_screen_7_saboteur.png" width="360" alt="Saboteur Remote Cockpit" /> |
 
 </div>
+
+---
+
+## ΑΝΑΒΑΘΜΙΣΕΙΣ ΕΚΔΟΣΗΣ 2.4.0 (BUILD 13) — ΠΛΗΡΗΣ ΕΠΕΚΤΑΣΗ ΠΛΟΚΗΣ 1974, 6 ΝΕΟΙ ΦΑΚΕΛΟΙ ΑΙΣΘΗΤΗΡΩΝ & ΚΟΝΣΟΛΑ ΣΑΜΠΟΤΕΡ
+
+### 1. 6 Νέα Αισθητηριακά Παιχνίδια (Φάκελοι XI–XVI)
+- **ΦΑΚΕΛΟΣ XI (`polygraph`):** Διπλός βιομετρικός πολύγραφος 2 παικτών με ταυτόχρονη επαφή ηλεκτροδίων και έλεγχο μικρο-τρόμου/θόρυβου.
+- **ΦΑΚΕΛΟΣ XII (`seismograph`):** Σεισμογράφος θαλάμου & ακουστικό σόναρ με native ανίχνευση κρούσης/χτυπήματος επιφάνειας.
+- **ΦΑΚΕΛΟΣ XIII (`emf_radar`):** Ανιχνευτής ηλεκτρομαγνητικών πεδίων EMF 360° μέσω `Sensor.TYPE_MAGNETIC_FIELD` (ή manual sweep).
+- **ΦΑΚΕΛΟΣ XIV (`thermal`):** Θερμικός σαρωτής FLIR νυχτερινής επιτήρησης για εντοπισμό ψυχρών ιχνών (-14°C).
+- **ΦΑΚΕΛΟΣ XV (`defibrillator`):** Διπλός απινιδωτής 360 Joules συγχρονισμένος με την κορυφή R του ΗΚΓ.
+- **ΦΑΚΕΛΟΣ XVI (`cctv_lockdown`):** Νυχτερινή βάρδια 4 καμερών ασφαλείας, στερεοφωνικά βήματα προειδοποίησης και μαγνητική σφράγιση θυρών.
+
+### 2. Οπτικό Σύστημα Τρόμου, Αφήγηση 1974 & Nightmare Permadeath
+- **Δυναμικά Φόντα 3 Νέων Πτερύγων:** Διαφορετικό περιβάλλον για Νεκροτομείο, Πτέρυγα Λοβοτομής και Υδροθεραπευτήριο, συνδυασμένο με **2.5D Parallax** κίνησης φακού.
+- **Αιματηρά Τριχοειδή, Subliminals 60ms & Παραισθήσεις:** Κόκκινο περιμετρικό αγγειακό δίκτυο κλιμακούμενο πάνω από 95 BPM, υποσυνείδητα καρέ και στοχευμένες φράσεις με το όνομα του παίκτη.
+- **Evidence Board 1974, Πρωτόκολλο Εφιάλτη & Επίλογοι:** Πίνακας ξεκλειδωμένων τεκμηρίων (`doc1`–`doc6`), λειτουργία Permadeath χωρίς δεύτερη ευκαιρία στον γύρο και 3 διακλαδούμενοι επίλογοι (Αθώωση, Διαρροή Απομόνωσης, Κατάληψη).
+
+### 3. Αναβαθμίσεις Υπαρχόντων Φακέλων (I–X), Hardware & LAN Σαμποτέρ
+- **Βελτιώσεις Φακέλων I–X:** Γρήγορο *Flick-spin* κυλίνδρου (`roulette`), οπτικό σταυρόνημα γυροσκοπίου (`statue`), σπινθήρες ηλεκτροπληξίας (`wires`), ζώνες AM/FM/SW & κώδικας Morse (`oscilloscope`), οπτικό μικροσκόπιο 2.5x (`autopsy`), θερμικό UV lockout (`toxicology`), αστάθεια Wow & Flutter + αντίστροφο EVP audio (`evp_tape`) και ρυθμιστικό φωτεινότητας Dimmer (`xray`).
+- **Αναβαθμίσεις Σαμποτέρ & Ασφάλειας Ήχου:** Proximity Radar και `LUX` φως θύματος στον browser του Σαμποτέρ, νέα εντολή `EMP BLACKOUT`, HTTP fallback endpoint `/api/telemetry`, κουμπί δολιοφθοράς φορέα `-15%` και ενσωματωμένος `DynamicsCompressorNode` περιοριστής έντασης.
 
 ---
 
