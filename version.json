@@ -1,19 +1,19 @@
 {
   "appName": "Pass & Play Terror (BLACKWOOD: CASE #09)",
   "packageId": "app.jemangr.passnplayterror",
-  "version": "5.3.0",
-  "versionCode": 21,
-  "releasedAt": "2026-11-13T16:55:00.000Z",
+  "version": "5.3.1",
+  "versionCode": 22,
+  "releasedAt": "2026-11-13T17:03:00.000Z",
   "mandatory": false,
   "apkFileName": "pass-n-play-terror.apk",
   "apkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk",
-  "fallbackApkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/tag/v5.3.0",
+  "fallbackApkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/tag/v5.3.1",
   "supportEmail": "support@jemangr.app",
-  "playersSupported": "1-8 Players (54 Cases • Wave 2: 16 Party & Board Classics • Bar/No-Mic Filter • Custom Party Jokes • Night Audio/Flash • 4:5 Story Strip)",
+  "playersSupported": "1-8 Players (54 Cases • Native Android TTS Voice Briefings EL/EN • Bar/No-Mic Filter • Custom Party Jokes • 4:5 Story Strip)",
   "releaseNotes": [
-    "v5.3.0 (Build 21) — Wave 2 Expansion: +16 Party & Board Game Adaptations (Total 54 Cases!) + 5 Marketing Upgrades",
-    "Venue Filter Bar (#venue-filter-bar): Instant ALL (54) vs BAR / NO MIC (26 silent social games for noisy bars) + Custom Party Words (#custom-jokes-box) injected into Chameleon, Just One, Time's Up, Heads Up & Fake Artist",
-    "10 New Social & Bluff Party Classics (PARTY 26): Secret Ward (Zero-Mod Avalon + Audio/Flash Night Phase), Morgue Coup, Ward Chameleon 4x4, Skull & Elixirs, Sketch Chain (+ 4:5 Story Strip Export), Just One (Auto Duplicate-Burn), Exploding Vials (4s Defuse), Standoff 3-2-1, Time's Up x3, and Director's Cup (4th King Vial)",
-    "3 Code Puzzles (PUZZLES 17) + 3 Hardware Thrillers (SENSORS 11): Codenames 4x4, Decrypto Cipher, Death Tapple Wheel, Red Light / Green Light 1974 (Gyro Freeze + Laser Corridor), Surgical Jenga (Tilt Physics Bone Tower), and Precision Scream dB Corridor"
+    "v5.3.1 (Build 22) — Native Android TextToSpeech (EL/EN) + Automatic & On-Demand Voice Briefings",
+    "Native Android Speech Engine (MainActivity TTS bridge): Guaranteed voice playback inside Android WebView across all devices for Greek (el-GR) and English (en-US)",
+    "Pre-Game Briefing Voiceover (#btn-pregame-speak): Reads aloud every case's Objective, Controls & Trap across all 54 cases (plus toggleable auto-voice setting in Settings)",
+    "Live Voice Prompts in Gameplay: Zero-Mod Night Phase narration + Torch flash in Secret Ward (XXXIX), 'Green Light / Red Light Freeze!' announcements (XLVII), and '3-2-1 Fire!' countdown in Standoff (L)"
   ]
 }
