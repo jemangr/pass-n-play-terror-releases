@@ -1,21 +1,21 @@
 {
   "appName": "Pass & Play Terror (BLACKWOOD: CASE #09)",
   "packageId": "app.jemangr.passnplayterror",
-  "version": "4.0.0",
-  "versionCode": 16,
-  "releasedAt": "2026-11-13T12:15:00.000Z",
+  "version": "5.0.0",
+  "versionCode": 17,
+  "releasedAt": "2026-11-13T13:05:00.000Z",
   "mandatory": false,
   "apkFileName": "pass-n-play-terror.apk",
   "apkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk",
-  "fallbackApkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/tag/v4.0.0",
+  "fallbackApkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/tag/v5.0.0",
   "supportEmail": "support@jemangr.app",
-  "playersSupported": "1-8 Players (EN/EL • Daily Shift • 16 Free Cases • LAN Saboteur QR • 9:16 Viral Card)",
+  "playersSupported": "1-8 Players (Option Delta Noir UI • 26 Cases • 100% EN/EL • Daily Shift 2X • LAN Saboteur)",
   "releaseNotes": [
-    "v4.0.0 (Build 16) — Bilingual EN+EL, Viral 9:16 Share Cards, Daily Shift Streak & Free AdMob Bridge",
-    "Bilingual EN + EL: Auto-detects system language (EN default outside el*) with 1-tap header toggle + English & Greek demonic TTS voices",
-    "Hero Funnel & Zero Cold-Start Friction: Removed cold-start permission gate (Just-In-Time mic & opt-in Selfie Reaction Camera), Hero 'Troll a Friend (LAN QR)' & '15s Instant Scare Test' buttons",
-    "Retention & Party Growth: Deterministic Daily Shift Case with persistent Streak counter + 3 Party Penalty Packs (Classic, Party/Dare, Silent 60dB)",
-    "9:16 Viral TikTok/Reels Card: Composites peak BPM/dB telemetry, 'PASSED OUT AT 168 BPM // CAN YOU SURVIVE?', Selfie camera PiP & scannable QR to https://jemangr.app/terror/",
-    "Free With Ads Bridge: All 16 Cases free & unlocked; Rewarded Ad bridge for Extra Revive & 100% Chaos Energy (+ 2.5s Test Ad Preview fallback in standalone APK)"
+    "v5.0.0 (Build 17) — Option Delta Minimal Noir Radar UI, 10 Deep-Concentration Cases (XVII-XXVI), 100% EN Translation & Daily 2X Rewarded Ad",
+    "Option Delta UI Redesign: Pulse Radar 1-tap play hero + persistent 4-tab Bottom Dock (Radar, 26 Cases, Saboteur, 1974 Vault), auto-hidden during gameplay",
+    "5 New Group Concentration Cases (XVII-XXI): Blind Quarantine Elevator, Dual-Hand Sync Incision, Blind Echolocation Sonar, Acoustic Morse Cipher & 12-Vial Poison Council",
+    "5 New Solo Deep-Puzzle Cases (XXII-XXVI): 5-Disc Acoustic Safecracker, 4x4 Neural Containment Matrix, Corridor Gaze Guardian, Apothecary Precision Scale & Flash Memory Ward",
+    "100% Bilingual Coverage (EN/EL): Translated all 26 case cards, Roster, 5-Node Wing Map, 1974 Evidence Vault, Forensic Reports, HUDs & Jumpscare/Summary modals",
+    "Daily Shift 2X Rewarded Ad (+250 PTS) added to end-of-round Summary Modal alongside AdMob Revive & Saboteur 100% Chaos Energy"
   ]
 }

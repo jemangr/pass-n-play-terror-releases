@@ -1,8 +1,8 @@
 <div align="center">
 
-# BLACKWOOD — ΦΑΚΕΛΟΣ #09 (v4.0.0)
-### *Bilingual (EN+EL) Tactical Survival & 16-Case Horror Game for Android • Pass & Play + LAN Saboteur*
-**1–8 Παίκτες • Δίγλωσσο EN/EL • Ημερήσια Βάρδια & Streak • 3 Πακέτα Ποινών • Viral 9:16 Κάρτα & QR • 16 Δωρεάν Φάκελοι • AES-256-GCM**
+# BLACKWOOD — ΦΑΚΕΛΟΣ #09 (v5.0.0)
+### *Option Δ Noir Radar UI • 26 Deep-Concentration Horror Cases (I–XXVI) • Bilingual EN/EL • Pass & Play + LAN Saboteur*
+**1–8 Παίκτες • Option Δ Radar & Bottom Dock • 26 Δωρεάν Φάκελοι • 100% Δίγλωσσο EN/EL • Daily Shift 2X • Viral 9:16 QR • AES-256-GCM**
 
 [![DOWNLOAD APK](https://img.shields.io/badge/DOWNLOAD_APK-pass--n--play--terror.apk-8a1117?style=for-the-badge&logo=android&logoColor=white)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)
 [![LATEST RELEASE](https://img.shields.io/github/v/release/jemangr/pass-n-play-terror-releases?style=for-the-badge&label=RELEASE&color=a88958)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest)
@@ -10,7 +10,7 @@
 
 <br/>
 
-> 🔒 **[ΚΑΤΕΒΑΣΤΕ ΤΟ ΕΠΙΣΗΜΟ APK ΑΠΕΥΘΕΙΑΣ ΕΔΩ (v4.0.0 Build 16)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)**
+> 🔒 **[ΚΑΤΕΒΑΣΤΕ ΤΟ ΕΠΙΣΗΜΟ APK ΑΠΕΥΘΕΙΑΣ ΕΔΩ (v5.0.0 Build 17)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)**
 >
 > 🔗 **Μόνιμος Σύνδεσμος Λήψης:** `https://jemangr.app/terror/` → `https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk`
 
@@ -18,27 +18,46 @@
 
 ---
 
-## ΦΩΤΟΓΡΑΦΙΚΗ ΤΕΚΜΗΡΙΩΣΗ ΣΥΣΤΗΜΑΤΟΣ (SCREENSHOTS v4.0.0)
+## ΦΩΤΟΓΡΑΦΙΚΗ ΤΕΚΜΗΡΙΩΣΗ ΣΥΣΤΗΜΑΤΟΣ (SCREENSHOTS v5.0.0)
 
 <div align="center">
 
-| ΚΕΝΤΡΙΚΟ ΜΕΝΟΥ (EL) & ΗΜΕΡΗΣΙΑ ΒΑΡΔΙΑ | BILINGUAL MENU (EN) & HERO HOOKS |
+| OPTION Δ — MINIMAL NOIR RADAR (EL) | BILINGUAL NOIR RADAR & DOCK (EN) |
 | :---: | :---: |
-| <img src="./screenshots/v4_screen_1_title_el.png" width="360" alt="Blackwood Title Menu EL v4" /> | <img src="./screenshots/v4_screen_2_title_en.png" width="360" alt="Blackwood Title Menu EN v4" /> |
+| <img src="./screenshots/v5_screen_1_title_el.png" width="360" alt="Option Delta Title Menu EL v5" /> | <img src="./screenshots/v5_screen_2_title_en.png" width="360" alt="Option Delta Title Menu EN v5" /> |
 
-| ΠΑΚΕΤΑ ΠΟΙΝΩΝ & ΦΑΚΕΛΟΙ (EN) | JUMPSCARE + AD REVIVE BRIDGE |
+| 26 ΦΑΚΕΛΟΙ & ΠΑΚΕΤΑ ΠΟΙΝΩΝ (EN) | ΦΑΚΕΛΟΣ XVII — BLIND ELEVATOR |
 | :---: | :---: |
-| <img src="./screenshots/v4_screen_3_cases_en.png" width="360" alt="Cases & Penalty Packs EN v4" /> | <img src="./screenshots/v4_screen_5_jumpscare_revive.png" width="360" alt="Jumpscare & Ad Revive v4" /> |
+| <img src="./screenshots/v5_screen_3_cases_en.png" width="360" alt="26 Cases EN v5" /> | <img src="./screenshots/v5_screen_4_blind_elevator.png" width="360" alt="Blind Elevator v5" /> |
 
-| SPONSORED AD TEST PREVIEW (2.5s) | 9:16 VIRAL REACTION CARD + QR |
+| ΦΑΚΕΛΟΣ XXIII — NEURAL MATRIX | ΦΑΚΕΛΟΣ XXV — APOTHECARY SCALE |
 | :---: | :---: |
-| <img src="./screenshots/v4_screen_4_ad_preview.png" width="360" alt="Rewarded Ad Preview v4" /> | <img src="./screenshots/v4_screen_6_viral_card.png" width="360" alt="9:16 Viral Card & QR v4" /> |
+| <img src="./screenshots/v5_screen_5_neural_matrix.png" width="360" alt="Neural Matrix v5" /> | <img src="./screenshots/v5_screen_6_apothecary_scale.png" width="360" alt="Apothecary Scale v5" /> |
 
-| ΧΑΡΤΗΣ ΠΤΕΡΥΓΑΣ 5 ΚΟΜΒΩΝ | ΠΟΛΥΓΡΑΦΟΣ — ΤΡΑΠΕΖΙ 180° |
+| ΦΑΚΕΛΟΣ XXII — 5-DISC SAFECRACKER | DAILY SHIFT 2X SUMMARY (+250 PTS) |
 | :---: | :---: |
-| <img src="./screenshots/v3_screen_4_map.png" width="360" alt="5-Node Wing Map" /> | <img src="./screenshots/v3_screen_7_polygraph_table.png" width="360" alt="Polygraph 180 Table Mode" /> |
+| <img src="./screenshots/v5_screen_8_pressure_tumblers.png" width="360" alt="5-Disc Safecracker v5" /> | <img src="./screenshots/v5_screen_7_daily_2x_summary.png" width="360" alt="Daily 2X Summary v5" /> |
 
 </div>
+
+---
+
+## ΑΝΑΒΑΘΜΙΣΕΙΣ ΕΚΔΟΣΗΣ 5.0.0 (BUILD 17) — OPTION Δ UI, 10 ΝΕΟΙ ΓΡΙΦΟΙ XVII–XXVI & 100% EN/EL
+
+- **Option Δ — Minimal Noir Radar + Persistent 4-Tab Bottom Dock:** Καθαρή αρχική οθόνη γύρω από 1-tap παλλόμενο Radar Hero (*PLAY / ΠΑΙΞΕ ΤΩΡΑ*), 2 Hero Action Cards (*LAN Saboteur QR*, *15s Instant Scare*), και μόνιμη κάτω μπάρα 4 καρτελών (*Radar • 26 Φάκελοι • Σαμποτέρ • Αρχείο 1974*) που κρύβεται αυτόματα εντός παιχνιδιού.
+- **5 Νέοι Ομαδικοί Γρίφοι Συγκέντρωσης (`XVII–XXI`):**
+  - **XVII Blind Elevator:** Μνήμη σχεδιαγράμματος 4.0s & εξισορρόπηση πίεσης PSI.
+  - **XVIII Sync Incision:** Συγχρονισμένη κίνηση διπλής χειρουργικής επαφής χωρίς παρεκκλίσεις.
+  - **XIX Blind Echolocation Sonar:** Ακουστικά pings με όριο `<52dB` για εντοπισμό εξόδου.
+  - **XX Acoustic Morse Cipher:** Μετάφραση και συγχρονισμένη εκπομπή `• —` σημάτων.
+  - **XXI 12-Vial Poison Council:** Επαγωγική ανάλυση 12 φιαλιδίων & εντοπισμός αντίδοτου.
+- **5 Νέοι Ατομικοί Γρίφοι Συγκέντρωσης (`XXII–XXVI`):**
+  - **XXII 5-Disc Acoustic Safecracker:** Ακουστική ευθυγράμμιση 5 δίσκων με έλεγχο σταθερότητας γυροσκοπίου (`<= 12.5°`).
+  - **XXIII 4x4 Neural Containment:** Περιστροφή κόμβων κυκλώματος από `SOURCE` σε `EXIT` αποφεύγοντας τις κόκκινες παγίδες.
+  - **XXIV Corridor Gaze Guardian:** Διάσχιση διαδρόμου υπό το βλέμμα κινούμενης επιτήρησης.
+  - **XXV Apothecary Precision Scale:** Ζυγός ακριβείας 6 δειγμάτων σε max 3 ζυγίσεις.
+  - **XXVI Flash Memory Ward:** Κλινική απομνημόνευση συμβόλων θαλάμου υπό πίεση χρόνου.
+- **100% Αγγλική Μετάφραση & 2X Daily Shift Rewarded Ad:** Πλήρης δίγλωσση κάλυψη σε Roster, Wing Map 5 Κόμβων, Evidence Vault 1974, Ιατροδικαστικά Δελτία και HUD αρένας + **2X Daily Shift Bonus (+250 PTS)** στο Summary Modal.
 
 ---
 
@@ -226,7 +245,7 @@
 
 ## ΤΕΧΝΙΚΗ ΤΕΚΜΗΡΙΩΣΗ (ΙΔΙΩΤΙΚΟ ΑΠΟΘΕΤΗΡΙΟ)
 
-- [`DECISIONS.md`](./DECISIONS.md) — Αποφάσεις αρχιτεκτονικής λογισμικού (`ADR-001` έως `ADR-016`).
+- [`DECISIONS.md`](./DECISIONS.md) — Αποφάσεις αρχιτεκτονικής λογισμικού (`ADR-001` έως `ADR-021`).
 - [`Pass and Play Terror.docx`](./Pass%20and%20Play%20Terror.docx) — Αρχικό έγγραφο σχεδιασμού.
 - [`walkthrough.md`](./walkthrough.md) — Οδηγός δοκιμών και επαλήθευσης.
 
