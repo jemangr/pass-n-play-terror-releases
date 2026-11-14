@@ -1,19 +1,20 @@
 {
   "appName": "Pass & Play Terror (BLACKWOOD: CASE #09)",
   "packageId": "app.jemangr.passnplayterror",
-  "version": "5.5.0",
-  "versionCode": 24,
-  "releasedAt": "2026-11-13T19:30:00.000Z",
+  "version": "5.7.0",
+  "versionCode": 26,
+  "releasedAt": "2026-11-14T00:49:49.000Z",
   "mandatory": false,
   "apkFileName": "pass-n-play-terror.apk",
-  "apkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk",
-  "fallbackApkUrl": "https://github.com/jemangr/pass-n-play-terror-releases/releases/tag/v5.5.0",
+  "apkUrl": "https://raw.githubusercontent.com/jemangr/pass-n-play-terror-releases/main/pass-n-play-terror.apk",
+  "fallbackApkUrl": "https://github.com/jemangr/pass-n-play-terror-releases",
   "supportEmail": "support@jemangr.app",
-  "playersSupported": "1-8 Players (68 Cases • v5.5.0 UI/Graphics/Audio & Gameplay Overhaul)",
+  "playersSupported": "1-8 Players (76 Games • v5.7.0 Night in Blackwood)",
   "releaseNotes": [
-    "v5.5.0 (Build 24) — Gamer + Graphic & Sound Designer Overhaul across 68 Cases",
-    "UI & Graphic Overhaul: Expanded Party Viewport (zero dead vertical gap), Clean Topbar (CASES I–LXVIII), Search + ★ Favorites + 6+ Party Filters, Custom Vector Glyphs (Dobble Necropsy), Authentic SVG Solid/Striped/Outline SET Cards, Retro CRT Corridor Shader (Red Light 1974), 3D Cracked Bones (Surgical Jenga), Analog VU Gauge (Choir Panic) & Playable Card Glow (UNO)",
-    "Pro Sound & Haptic Studio: Persistent Spatial Reverb Bus, BPM-Reactive Breathing Horror Drone, Voice Ducking during TTS, Accelerating Final-5s Ticks, & 6 Bespoke WebAudio SFX (Dice Rattle, Card Snap, Slap Impact, Minesweeper Flood, Wood Creak, Vault Unlock Fanfare)",
-    "Deep Gameplay Reworks: True Rhythm Interval Judging (Echo Rhythm), Direct-Tap + 1v1 Table Rotation (Dobble), BFS Flood-Fill (Minesweeper), Multi-Cup Dice Bluff Resolution (Liar's Dice), SET Hint Spark, Micro Screen-Shake & Floating Score Popups"
+    "v5.7.0 (Build 26) — Νέα γραφικά, φωνές, μουσική & 7 νέα παιχνίδια / New art, voices, music & 7 new games",
+    "Νύχτα στο Blackwood: 6 παιχνίδια στη σειρά, ένα από κάθε πτέρυγα, με ιστορία, σκορ και Επιζώντα. / Night in Blackwood: a 6-game run through every wing with story, score and a Survivor.",
+    "Νέες φωνές αφήγησης και οντοτήτων (EL/EN), πραγματικές κραυγές, προσαρμοζόμενη μουσική και 3D ψίθυροι. / New narrator and entity voices (EL/EN), real screams, adaptive music and 3D whispers.",
+    "Νέα εικονογράφηση: Αδελφή Αγάθη, 6 πτέρυγες, τελική σκηνή θησαυροφυλακίου, νέο εικονίδιο. / New artwork: Sister Agatha, 6 wings, vault ending, new app icon.",
+    "Android 16: σωστό κουμπί πίσω, πλήρης οθόνη με σεβασμό στην εγκοπή της κάμερας, λιγότερη κατανάλωση μπαταρίας. / Android 16: proper back button, full screen that respects the camera cutout, lower battery use."
   ]
 }
