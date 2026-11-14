@@ -1,6 +1,6 @@
 <div align="center">
 
-# PASS & PLAY TERROR — BLACKWOOD #09 (v5.4.0)
+# PASS & PLAY TERROR — BLACKWOOD #09 (v5.7.0)
 ### *68 Cases (I–LXVIII) • Party Roulette • 1v1 Same-Screen • Night MVP Trophy • Creepy 1974 TTS (EL/EN)*
 **1–8 Παίκτες • 68 Φάκελοι (33 Ομαδικά • 21 Γρίφοι • 14 Αισθητήρες) • 4:5 MVP & Story Export • 100% EN/EL**
 
@@ -10,7 +10,7 @@
 
 <br/>
 
-> 🔒 **[ΚΑΤΕΒΑΣΤΕ ΤΟ ΕΠΙΣΗΜΟ APK ΑΠΕΥΘΕΙΑΣ ΕΔΩ (v5.4.0 Build 23)](https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk)**
+> 🔒 **[ΚΑΤΕΒΑΣΤΕ ΤΟ ΕΠΙΣΗΜΟ APK ΑΠΕΥΘΕΙΑΣ ΕΔΩ (v5.7.0 Build 26)](https://raw.githubusercontent.com/jemangr/pass-n-play-terror-releases/main/pass-n-play-terror.apk)**
 >
 > 🔗 **Μόνιμος Σύνδεσμος Λήψης:** `https://jemangr.app/terror/` → `https://github.com/jemangr/pass-n-play-terror-releases/releases/latest/download/pass-n-play-terror.apk`
 
